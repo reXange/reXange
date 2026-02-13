@@ -1,4 +1,4 @@
-# Feedback - W2
+# Feedback - W3
 
 **Fecha:** 12/02/2026
 
@@ -225,9 +225,10 @@ Feedback que proporcionaron los profesores para la clase al completo.
 
 | Versión | Fecha       | Descripción                   | Autor(es)       |
 |---------|------------|-------------------------------|------------|
-| 1.0.0   | 13/02/2026 | Creación del documento de feedback de la semana 2 con feedback recibido de profesores, feedback interno del equipo, feedback para otros equipos y feedback general de la clase. | Lucía Ponce García de Sola |
+| 1.0.0   | 13/02/2026 | Creación del documento de feedback de la semana 3 con feedback recibido de profesores, feedback interno del equipo, feedback para otros equipos y feedback general de la clase. | Lucía Ponce García de Sola |
+| 1.1.0 | 13/02/2026 | Cambio de nombre del documento porque corresponde a la semana 3. | Lucía Ponce García de Sola |
 
 ---
 **Redactado por:** Lucía Ponce García de Sola  
 **Fecha de redacción:** 13/02/2026  
-**Versión:** 1.0.0
+**Versión:** 1.1.0
