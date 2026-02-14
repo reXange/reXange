@@ -1,4 +1,4 @@
-# 📑 Planificación de Sprints - Proyecto Aurora
+# Planificación de Sprints 
 
 Este documento detalla la hoja de ruta para el desarrollo del sistema, dividida en tres iteraciones estratégicas.
 
