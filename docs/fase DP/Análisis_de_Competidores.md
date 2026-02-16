@@ -228,36 +228,52 @@ En resumen, Grover es una buena solución internacional para el alquiler flexibl
 
 ## Rentik
 
-Rentik es una plataforma centrada en el renting tecnológico, principalmente de dispositivos electrónicos como móviles, tablets, ordenadores o consolas. Su modelo está orientado al alquiler a medio y largo plazo, con contratos rígidos de 24 o 36 meses, y con un catálogo cerrado gestionado por la propia empresa. Los productos se alquilan siempre de forma individual y no existe la posibilidad de que los usuarios suban sus propios objetos ni de crear kits personalizados. Además, Rentik opera únicamente a nivel nacional y no está pensado para estancias temporales ni para personas que se trasladan a otra ciudad o país por un periodo corto de tiempo.
+### ¿Qué es?
 
-En contraste, nuestra aplicación está diseñada específicamente para cubrir las necesidades de personas en movilidad temporal, como estudiantes Erasmus, jóvenes profesionales o nómadas digitales. A diferencia de Rentik, nuestra plataforma permite alquilar tanto objetos individuales como kits completos de hogar, personalizados por ciudad, duración y necesidades del usuario. El objetivo es ofrecer una solución integral que permita “llegar y vivir” sin necesidad de comprar objetos que solo se utilizarán durante unos meses.
+Rentik es una plataforma especializada en el renting de dispositivos electrónicos para particulares y empresas. Su modelo se basa en el alquiler de tecnología a medio y largo plazo mediante una cuota mensual fija que incluye el uso del dispositivo y un seguro obligatorio.
 
-Otra diferencia clave es el modelo de funcionamiento. Mientras que Rentik actúa como proveedor único de los dispositivos, nuestra aplicación funciona como un marketplace bidireccional entre particulares. Esto permite que personas locales moneticen objetos domésticos infrautilizados y que otros usuarios los alquilen de forma temporal, fomentando la economía circular de manera más directa y eficiente.
-
-Además, nuestra plataforma ofrece una flexibilidad total en la duración del alquiler, notificaciones de recordatorio de entrega y devolución, y funcionalidades como “avísame cuando esté disponible”, que generan un equilibrio dinámico entre oferta y demanda. También integra servicios básicos como internet u otros servicios locales, algo que Rentik no contempla.
-
-En resumen, mientras Rentik ofrece una solución específica para el renting tecnológico a largo plazo, nuestra aplicación propone una solución mucho más amplia, flexible y adaptada a la vida temporal en otra ciudad, cubriendo no solo tecnología, sino el conjunto de necesidades del hogar y los servicios esenciales.
+Opera exclusivamente en España y no está orientada a estancias cortas ni a movilidad internacional.
 
 
-### Análisis Rentik
+### Modelo de Rentik
 
-Rentik es una empresa especializada en el renting de dispositivos electrónicos dirigida tanto a usuarios finales como a empresas. Su actividad se centra en el alquiler de tecnología a medio y largo plazo, ofreciendo una alternativa a la compra tradicional de dispositivos mediante una cuota mensual fija que incluye el uso del producto, el seguro y la logística asociada.
+- **Concepto:** Servicio de renting tecnológico a medio y largo plazo.
+- **Catálogo:** Aproximadamente 80 dispositivos tecnológicos, entre ellos: smartphones, tablets, ordenadores portátiles, smartwatches y consolas de marcas como Apple, Samsung, Xiaomi, Oppo, Motorola, Sony, Nintendo y Microsoft. Incluye productos nuevos y reacondicionados.
+- **Modelo de Stock:** El stock está gestionado directamente por la empresa. No es un marketplace entre particulares.
+- **Kits y Productos**: Solo se permiten alquiler de productos individuales. No existen kits preconfigurados ni posibilidad de crear packs personalizados.
+- **Duración Contractual**: Contratos rígidos de 24 meses para la mayoría de dispositivos y 36 meses para consolas. Existe la posibilidad de ampliarlo por 12 meses adicionales o comprar el dispositivo al finalizar el periodo mediante el pago del 35% del PVP recogido en el contrato. La cancelación anticipada del servicio conllevará un pago asociado al 50% de la base imponible pendiente.
+- **Depósito de Garantía**: No utiliza un depósito tradicional, sino que incluye un seguro obligatorio integrado en la cuota mensual que cubre daños accidentales y robo.
+- **Logística**: Envío gratuito a domicilio. Las devoluciones se pueden realizar mediante recogida o entrega en tienda asociada.
+- **Valoraciones de usuarios**: Los usuarios pueden valorar su experiencia con el servicio de Rentik. 
+- **Público Objetivo**: Muestra valoraciones del servicio.
+- **Alcance Geográfico**: Exclusivamente España.
+- **Modelo de Ingresos**: Cuota mensual fija según dispositivo y duración.
+- **Economía Circular**: Dispone del programa TickSwap, que permite a los usuarios vender sus dispositivos antiguos a la empresa a cambio de compensación económica o descuento en la cuota de renting. Además, trabaja con dispositivos reacondicionados para prolongar su vida útil.
 
-La plataforma opera como proveedor directo de los productos, no como un marketplace entre particulares. Es decir, los usuarios no pueden subir sus propios objetos para alquilarlos a terceros, sino que acceden a un catálogo cerrado gestionado íntegramente por la empresa. Este catálogo está compuesto por aproximadamente 80 productos, principalmente de marcas tecnológicas reconocidas como Apple, Samsung, Xiaomi, Oppo, Motorola, Sony, Nintendo y Microsoft. Los dispositivos disponibles incluyen smartphones, tablets, ordenadores portátiles, relojes inteligentes y consolas. Algunos de los productos se ofrecen como nuevos y otros como reacondicionados, lo cual se indica de forma explícita en la ficha del artículo.
+### Comparativa y Diferenciación
 
-El modelo de alquiler de Rentik se basa exclusivamente en la contratación de productos individuales. No existe la posibilidad de crear kits personalizados ni de combinar varios artículos en un único proceso de alquiler. Cada producto se contrata de manera independiente y bajo unas condiciones contractuales estandarizadas. En este sentido, los contratos presentan una estructura rígida, con una duración mínima de 24 meses para la mayoría de dispositivos y de 36 meses para las consolas. Aunque existe la opción de ampliar el contrato por doce meses adicionales o de adquirir el dispositivo al finalizar el periodo mediante el pago del 35% de venta al público, el servicio no está pensado para estancias cortas ni para necesidades temporales de pocos meses. Asimismo, la cancelación anticipada del contrato conlleva una penalización económica significativa.
+| Característica | KeaKit | Rentik |
+|---------------|--------|--------|
+| Modelo Operativo | Plataforma colaborativa entre particulares | Proveedor único (stock propio) |
+| Público Objetivo | Movilidad temporal (Erasmus, nómadas digitales, profesionales desplazados) | Residentes en España y empresas que buscan renting tecnológico a medio/largo plazo |
+| Kits Personalizados | ✅ | ❌ |
+| Objetos Alquilables | Objetos domésticos y servicios | Solo dispositivos tecnológicos |
+| Flexibilidad de Duración | Totalmente flexible (adaptada a la estancia) | ❌ 24–36 meses obligatorios |
+| Integración de Servicios | ✅ | ❌ |
+| Sistema de Garantía | Depósito estandarizado (20% del valor del alquiler), gestionado por la plataforma | Seguro obligatorio incluido en la cuota mensual |
+| Sistema de Valoraciones | ✅ Bidireccional entre usuarios | 🟡 Valoración del servicio |
+| Economía Circular | Reutilización de objetos infrautilizados dentro de la comunidad | TickSwap + dispositivos reacondicionados |
+| Alcance Internacional | Europa | ❌ Solo España |
 
-En cuanto a la gestión del riesgo, Rentik no utiliza un sistema de depósito de garantía tradicional. En su lugar, todos los contratos incluyen un seguro obligatorio que cubre daños accidentales, roturas y robos. El coste del seguro varía en función del dispositivo alquilado y se integra en la cuota mensual, lo que aporta seguridad al usuario, pero elimina la flexibilidad típica de los modelos de alquiler entre particulares.
+#### Ventajas de KeaKit con respecto a Rentik
 
-Desde el punto de vista logístico, la empresa ofrece envío gratuito a domicilio en todos los pedidos. Los plazos de entrega estimados son de aproximadamente 72 horas hábiles en la península y algo superiores en el caso de las Islas Baleares e Islas Canarias. Al finalizar el contrato o en caso de cancelación, el usuario puede devolver el dispositivo en una tienda física de un socio comercial o solicitar la recogida en su domicilio. Rentik también permite la contratación presencial en establecimientos asociados, donde el cliente puede llevarse el dispositivo en el mismo momento.
+Mayor flexibilidad temporal: KeaKit permite alquilar por semanas o meses exactos según necesidad, mientras que Rentik exige compromisos largos (24–36 meses).
 
-El público objetivo de Rentik está claramente definido. El servicio está dirigido a personas físicas residentes en España, así como a empresas, pymes y startups a través de su línea Rentik Business. Esta modalidad empresarial ofrece soluciones de renting tecnológico para empleados, permitiendo a las organizaciones equipar a sus plantillas de forma flexible y con control de costes. En todos los casos, el ámbito geográfico de actuación de la empresa se limita al territorio español, ya que el proceso de contratación solo permite direcciones dentro de provincias españolas.
+Solución integral para vivienda temporal: No solo incluye tecnología, sino también mobiliario, electrodomésticos, menaje y servicios esenciales.
 
-Rentik comunica de forma activa su compromiso con la economía circular, especialmente en el ámbito de la tecnología. Este enfoque se materializa en el uso de dispositivos reacondicionados y en el programa TickSwap, mediante el cual los usuarios pueden vender dispositivos antiguos a la empresa, obteniendo un beneficio económico directo o una reducción en la cuota mensual del renting. No obstante, este planteamiento de sostenibilidad se circunscribe exclusivamente al sector tecnológico y no se extiende a otros ámbitos del hogar.
+Kits personalizados: Posibilidad de crear un conjunto completo adaptado a la estancia concreta del usuario.
 
-En relación con la experiencia del usuario, la plataforma permite filtrar los productos por categoría, marca, precio, memoria, disponibilidad y color, así como ordenarlos por precio o novedades. El proceso de contratación se realiza en tres pasos, que incluyen la introducción de datos personales, la dirección de envío y el método de pago. Aunque el sistema es claro y funcional, no se identifican funcionalidades como notificaciones de recordatorio de devolución o alertas automáticas de disponibilidad de productos concretos, más allá de ciertos mecanismos de solicitud vinculados al ámbito empresarial. La plataforma sí muestra valoraciones de usuarios, lo que aporta confianza y transparencia al servicio.
-
-En conclusión, Rentik ofrece una solución consolidada para el renting tecnológico a medio y largo plazo, especialmente orientada a usuarios que desean acceder a dispositivos electrónicos actualizados sin realizar una compra directa. Sin embargo, su modelo presenta importantes limitaciones en relación con proyectos centrados en la movilidad temporal y la vida en otra ciudad o país. La ausencia de kits personalizados, la rigidez en la duración de los contratos, la imposibilidad de que los usuarios alquilen sus propios objetos y la falta de integración de servicios básicos del hogar hacen que Rentik no responda a las necesidades de estudiantes internacionales, personas en programas de movilidad o profesionales con estancias temporales. En este sentido, se trata de un competidor indirecto y parcial, cuya propuesta de valor difiere de forma sustancial de una plataforma orientada a equipar un hogar temporal de manera integral, flexible y sostenible.
+Escalabilidad: Nuestro mercado tiene como objetivo extenderse a nivel europeo, mientras que Rentik se limita solo a España.
 
 
 ---
