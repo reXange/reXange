@@ -10,7 +10,7 @@ Este documento detalla la hoja de ruta para el desarrollo del sistema, dividida 
 
 | Módulo | Casos de Uso (CU) | Equipo Responsable |
 | :--- | :--- | :--- |
-| **Gestión de Usuarios** | CU-ARRENDADOR01, CU-ARRENDATARIO01, CU-ARRENDATARIO02, CU-ARRENDATARIO07, CU-ADMIN03 | Lucía Ponce García de Sola, Miguel Álvarez Raya, Enrique Barac, Salma El Hakimy, Luis Emmanuel Chavez Malave |
+| **Gestión de Usuarios** | CU-ARRENDADOR01, CU-ARRENDATARIO01, CU-ARRENDATARIO02, CU-ARRENDATARIO07, CU-ADMIN03 | Lucía Ponce García de Sola, Miguel Álvarez Raya, Enrique Nicolae Barac Ploae, Salma El Hakimy, Luis Emmanuel Chavez Malave |
 | **Gestión de Catálogo** | CU-ARRENDADOR02, 03, 04, 06 <br> CU-ARRENDATARIO 03, 04, 05, 06, 09 <br> CU-ADMIN01, 02 (Rangos de precio) | Guillermo Ciria González, Rafael Harana Mancilla, Alejandro González Macías, Adrián Miguel Chabera Rubio, Marta de la Calle González, Rosa María Espinosa Martínez, Samuel Tamayo Balogh, Guillermo García León, Ismael Carrasco Mkhazni, Germán Ojeda Garrido|
 | **Pago y Compra** | CU-ARRENDADOR05, 07, 08 <br> CU-ARRENDATARIO08, 10, 11 <br> CU-ADMIN04 (Modelo de negocio) | Paula Rosa González Páez, Marta Aguilar Morcillo, Ángel Amo Sánchez, Jose Luis Moraza Vergara, Cristina Fernández Chica, Candela Jazmín Gutierrez González |
 
@@ -25,7 +25,7 @@ Este documento detalla la hoja de ruta para el desarrollo del sistema, dividida 
 | Módulo | Casos de Uso (CU) | Equipo Responsable |
 | :--- | :--- | :--- |
 |Análisis de Feedback |  |Marta de la Calle, Rosa María Espinosa Martínez, Miguel Álvarez Raya.|
-|Gestión de Notificaciones|CU-ARRENDADOR09 (Alertas de demanda)|Lucía Ponce García de Sola, Miguel Álvarez Raya, Enrique Barac, Salma El Hakimy, Luis Emmanuel Chavez Malave|
+|Gestión de Notificaciones|CU-ARRENDADOR09 (Alertas de demanda)|Lucía Ponce García de Sola, Miguel Álvarez Raya, Enrique Nicolae Barac Ploae, Salma El Hakimy, Luis Emmanuel Chavez Malave|
 |Gestión de Catálogo|CU-ARRENDADOR12 (Análisis de demanda) y CU-ARRENDATARIO13 (Ampliación geográfica)|Rosa María Espinosa Martínez, Samuel Tamayo Balogh, Guillermo García León, Ismael Carrasco Mkhazni, Germán Ojeda Garrido|
 |Mejoras CU core||Guillermo Ciria González, Rafael Harana Mancilla, Alejandro González Macías, Adrián Miguel Chabera Rubio, Marta de la Calle González, Paula Rosa González Páez, Marta Aguilar Morcillo, Ángel Amo Sánchez, Jose Luis Moraza Vergara, Cristina Fernández Chica, Candela Jazmín Gutierrez González |
 
@@ -41,7 +41,7 @@ Este documento detalla la hoja de ruta para el desarrollo del sistema, dividida 
 | Módulo | Casos de Uso (CU) | Equipo Responsable |
 | :--- | :--- | :--- |
 |Análisis de Feedback |  |Marta de la Calle, Rosa María Espinosa Martínez, Miguel Álvarez Raya.|
-|Gestión de Notificaciones|CU-ARRENDADOR11 (Actividad) y CU-ARRENDATARIO12 (Avisos de disponibilidad)|Lucía Ponce García de Sola, Miguel Álvarez Raya, Enrique Barac, Salma El Hakimy, Luis Emmanuel Chavez Malave|
+|Gestión de Notificaciones|CU-ARRENDADOR11 (Actividad) y CU-ARRENDATARIO12 (Avisos de disponibilidad)|Lucía Ponce García de Sola, Miguel Álvarez Raya, Enrique Nicolae Barac Ploae, Salma El Hakimy, Luis Emmanuel Chavez Malave|
 |Gestión de Catálogo|CU-ARRENDADOR10 (Filtros en “Mis artículos”)|Rosa María Espinosa Martínez, Samuel Tamayo Balogh, Guillermo García León, Ismael Carrasco Mkhazni, Germán Ojeda Garrido|
 |Mejoras CU core||Guillermo Ciria González, Rafael Harana Mancilla, Alejandro González Macías, Adrián Miguel Chabera Rubio, Marta de la Calle González, Paula Rosa González Páez, Marta Aguilar Morcillo, Ángel Amo Sánchez, Jose Luis Moraza Vergara, Cristina Fernández Chica, Candela Jazmín Gutierrez González |
 
