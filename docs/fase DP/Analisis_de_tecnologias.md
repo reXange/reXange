@@ -14,18 +14,25 @@
 3. [Base de datos](#3-base-de-datos)  
    3.1. [MariaDB](#31-mariadb)  
    3.2. [PostgreSQL](#32-postgresql)  
-5. [Tecnologías escogidas](#4-tecnologías-escogidas) 
-6. [Plataforma(s) de despliegue](#5-plataformas-de-despliegue)  
-   5.1. [Despliegue Backend](#51-despliegue-backend)    
-      5.1.1. [Render](#511-render)  
-      5.1.2. [Railway](#512-railway)  
-   5.2. [Despliegue Frontend](#52-despliegue-frontend)  
-      5.2.1. [Expo Application Services](#521-expo-application-services)  
-   5.3. [Despliegue Base de Datos](#53-despliegue-base-de-datos)  
-      5.3.1. [Neon.tech](#531-neontech)  
-      5.3.2. [Supabase](#532-supabase)  
-      5.3.3. [Render](#533-render)  
-7. [Historial de versiones](#6-historial-de-versiones)
+4. [Plataforma(s) de despliegue](#4-plataformas-de-despliegue)  
+   4.1. [Despliegue Backend](#41-despliegue-backend)    
+      4.1.1. [Render](#411-render)  
+      4.1.2. [Railway](#412-railway)  
+   4.2. [Despliegue Frontend](#42-despliegue-frontend)  
+      4.2.1. [Expo Application Services](#421-expo-application-services)  
+   4.3. [Despliegue Base de Datos](#43-despliegue-base-de-datos)  
+      4.3.1. [Neon.tech](#431-neontech)  
+      4.3.2. [Supabase](#432-supabase)  
+      4.3.3. [Render](#433-render)  
+5. [Tecnologías escogidas](#5-tecnologías-escogidas)  
+   5.1. [Desarrollo](#51-desarrollo)  
+   5.2. [Despliegue](#52-despliegue)  
+   5.3. [Integración y despliegue continuos](#53-integración-y-despliegue-continuos)  
+   5.4. [Gestión](#54-gestión)  
+   5.5. [Comunicación](#55-comunicación)  
+   5.6. [Inteligencia Artificial](#56-inteligencia-artificial)  
+6. [Análisis de riesgos y plan de contingencia](#6-análisis-de-riesgos-y-plan-de-contingencia)
+7. [Historial de versiones](#7-historial-de-versiones)
 
 
 
@@ -259,15 +266,11 @@
 -  La configuración inicial puede ser compleja.
 ---
 
-## 4. Tecnologías escogidas
-
-*(Por rellenar.)*
-
-## 5. Plataforma(s) de despliegue
-### 5.1. Despliegue Backend
+## 4. Plataforma(s) de despliegue
+### 4.1. Despliegue Backend
 La elección de una plataforma de despliegue para el backend es fundamental para garantizar que la lógica de negocio desarrollada en Java con Spring Boot esté disponible de forma permanente y segura. A continuación se exponen las diferentes plataformas para su despliegue.
 
-#### 5.1.1. Render
+#### 4.1.1. Render
 
 <div style="text-align: center;">
   <img src="img/technologies/render.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
@@ -291,7 +294,7 @@ La elección de una plataforma de despliegue para el backend es fundamental para
 - La escalabilidad avanzada requiere plan de pago.
 ---
 
-#### 5.1.2. Railway
+#### 4.1.2. Railway
 
 <div style="text-align: center;">
   <img src="img/technologies/railway.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
@@ -312,10 +315,10 @@ La elección de una plataforma de despliegue para el backend es fundamental para
 - Dependencia de proveedor externo.
 ---
 
-### 5.2 Despliegue Frontend
+### 4.2 Despliegue Frontend
 En cuanto al frontend, el despliegue en una arquitectura de React Native con TypeScript consiste en gestionar la compilación y distribución de los binarios para dispositivos móviles. Es imperativo elegir una plataforma de servicios de compilación porque centraliza la transformación del código TypeScript en una aplicación funcional para Android o iOS. Una infraestructura de despliegue adecuada permite que el equipo trabaje sobre una base de código tipada y coherente, facilitando que cualquier usuario o evaluador pueda instalar la aplicación en su terminal físico mediante un flujo de distribución controlado y profesional. Se proponen tres plataformas:
 
-#### 5.2.1. Expo Application Services
+#### 4.2.1. Expo Application Services
 
 <div style="text-align: center;">
   <img src="img/technologies/expo.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
@@ -341,10 +344,10 @@ En cuanto al frontend, el despliegue en una arquitectura de React Native con Typ
 - Puede requerir configuración adicional para publicar en tiendas oficiales.
 ---
 
-### 5.3 Despliegue Base de Datos
+### 4.3 Despliegue Base de Datos
 Por último, desplegar la base de datos PostgreSQL de forma independiente es el pilar que garantiza la persistencia y la integridad de la información del proyecto. Se han analizado las siguientes opciones:
 
-#### 5.3.1. Neon.tech
+#### 4.3.1. Neon.tech
 
 <div style="text-align: center;">
   <img src="img/technologies/neon.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
@@ -368,7 +371,7 @@ Por último, desplegar la base de datos PostgreSQL de forma independiente es el 
 - Algunas funcionalidades avanzadas están limitadas a planes de pago.
 ---
 
-#### 5.3.2. Supabase
+#### 4.3.2. Supabase
 
 <div style="text-align: center;">
   <img src="img/technologies/supabase.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
@@ -392,7 +395,7 @@ Por último, desplegar la base de datos PostgreSQL de forma independiente es el 
 - Puede incluir servicios adicionales no necesarios para el proyecto.
 ---
 
-#### 5.3.3. Render
+#### 4.3.3. Render
 
 <div style="text-align: center;">
   <img src="img/technologies/render.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
@@ -415,14 +418,66 @@ Por último, desplegar la base de datos PostgreSQL de forma independiente es el 
 - Dependencia de la infraestructura de Render.
 ---
 
-## 6. Historial de versiones
+# 5. Tecnologías escogidas
+Tras realizar un análisis exhaustivo de ventajas y desventajas sobre todas las tecnologías propuestas, se han escogido las siguientes opciones.
+
+# 5.1. Desarrollo
+
+- **Spring Boot con Java** para el desarrollo backend.
+- **React Native con TypeScript** para el desarrollo frontend.
+- **PostgreSQL** como base de datos.
+
+# 5.2. Despliegue
+- **Render** para el despliegue del backend
+- **Expo Application Services** para la compilación del apk e ipa, y despliegue de la página web.
+- **Uptodown, Aptoide, F-Droid** como tiendas para la descarga de la aplicación
+- **Docker** para contenerización.
+
+# 5.3. Integración y despliegue continuos
+- **Github Actions:** Utilizaremos un sistema de workflows similares a los anteriormente deesarrollados en la asignatura de EGC para el despliegue y la integración.
+- **SonarQube:** Para el analisis estatico de codigo.
+- **CheckStyle:** Revisa el estilo de codigo de java.
+- **PMD:** Revisa malas practicas y diseño del codigo principalmente enfocado en java.
+- **SpotBugs:** Busca posibles bugs en la aplicación.
+- **TypeScript Compiler** para pruebas de tipado de TypeScript.
+- **ESLint** para el lint del código.
+- **Jest** para testing unitario del frontend.
+- **JUnit** para testing del backend.
+- **Mockito** para realizar los mocks del testing de backend.
+
+# 5.4. Gestión
+- **Clockify** para la gestión del tiempo y vigilancia de cumplimiento del Commitment Agreement.
+- **GitHub Projects** para observar la progresión de las tareas mediante el kanban del equipo.
+
+# 5.5. Comunicación
+- **Microsoft Teams** como herramienta principal de comunicación.
+- **Microsoft Excel** como Base Conocimiento compartida con otros equipos.
+
+# 5.6. Inteligencia Artificial
+- **Microsoft Copilot** para desarrollo de código o consultas.
+- **Gemini** para consultas y generación de imágenes.
+
+# 6. Análisis de riesgos y plan de contingencia
+| ID | Riesgo | Prioridad | Impacto en alcance | Impacto en tiempo/costes | Impacto en calidad | Probabilidad | Responsables de seguimiento | Responsables de respuesta | Plan de contingencia |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Alguna función es demasiado compleja de realizar con las herramientas escogidas | Alta | Alta | Baja | Alta | Media | Coordinador de equipo | Coordinador | Refactorización o uso de nuevas librerías que permitan el desarrollo de dicha funcionalidad. | 
+| 2 | Problemas de compatibilidad o disponibilidad en herramientas de desarrollo y plataformas de despliegue | Media | Baja | Baja | Baja | Media | Coordinador | Coordinador | Búsqueda y propuesta de herramientas alternativas con la misma funcionalidad y compatibles entre sí. |
+| 3 | Licencias o herramientas de software insuficientes | Baja | Medio | Medio | Bajo | Medio | Coordinador | Coordinador | Búsqueda y propuesta de herramientas gratuitas para cubrir esas necesidades |
+| 4 | Brechas de seguridad o pérdida de información | Alta | Bajo | Bajo | Alto | Baja | Coordinador | Coordinador | Copias de seguridad frecuentes y protocolos de seguridad |
+| 5 | Falta de disponibilidad de hardware o infraestructura | Alta | Alto | Medio | Medio | Baja | Coordinador | Coordinador | Uso de máquinas virtuales o solicitud de terminales a otras personas. |
+| 6 | Falta de conocimiento sobre las herramientas | Alta | Bajo | Alto | Medio | Media | Coordinador de equipo | Coordinador de equipo | Realización de formación mediante tutoriales de YouTube o cursos online. |
+
+*Nota: El "coordinador" se refiere al coordinador del equipo 6 en su totalidad, mientras que el "coordinador de equipo" se refiere al coordinador del subgrupo afectado por el suceso del riesgo.*
+
+## 7. Historial de versiones
 
 | Versión | Fecha       | Descripción                   | Autor(es)       |
-|---------|------------|-------------------------------|------------|
+|---------|------------|--------------------------------|------------|
 | 1.0.0   | 08/02/2026 | Análisis inicial de tecnologías para backend (Spring Boot, Django REST, NestJS) y frontend (Vue, React, Angular, Flutter, React Native) | Luis Emmanuel Chavez Malave, Lucía Ponce García de Sola |
 | 1.1.0   | 12/02/2026 | Análisis inicial de tecnologías para base de datos (MariaDB, PostgreSQL) y plataformas de despliegue. | Marta de la Calle González |
+| 2.0.0 | 15/02/2026 | Decisión final de tecnologías escogidas para desarrollo, despliegue, integración continua, gestión, comunicación e IA. Adición de análisis de riesgos y plan de contingencia. Reorganización de la numeración de secciones. | Luis Emmanuel Chavez Malave, Lucía Ponce García de Sola, Marta de la Calle González |
 
 ---
 **Redactado por:** Luis Emmanuel Chavez Malave, Lucía Ponce García de Sola y Marta de la Calle González  
-**Fecha de redacción:** 12/02/2026  
-**Versión:** 1.1.0
+**Fecha de redacción:** 15/02/2026  
+**Versión:** 2.0.0

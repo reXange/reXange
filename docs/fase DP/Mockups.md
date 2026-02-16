@@ -11,7 +11,7 @@ Para ello, en primer lugar debemos tener en cuenta que nuestra aplicación cuent
 
 En primer lugar, nos centramos en aquellas pantallas que están generalizadas para todos los tipos de usuario, con diferencias mínimas en función del rol.
 
-### Registro - Core
+### Registro - Core (CU1/CU14)
 
 Esta es la pantalla que se mostrará al iniciar la aplicación móvil por primera vez, en ella los usuarios de la aplicación podrán registrarse con dos roles distintos: Arrendador o arrendatario. En esta pantalla se deberán rellenar los datos corrrespondientes y pulsar el botón **"Registrarse"** para completar el registro.
 
@@ -27,7 +27,7 @@ Esta es la pantalla que se mostrará al iniciar la aplicación móvil por primer
 </div>
 
 
-### Inicio de sesión - Core
+### Inicio de sesión - Core (CU1/CU14)
 
 Esta pantalla corresponde al inicio de sesión en la aplicación. Tras completar los datos, se nos conducirá a la pantalla de **Home** del rol correspondiente.
 
@@ -38,7 +38,7 @@ Esta pantalla corresponde al inicio de sesión en la aplicación. Tras completar
        alt="Inicio de sesión: Arrendador">
 </div>
 
-### Home - Core
+### Home
 
 Esta pantalla representa la pantalla principal de la aplicación. Cada tipo de usuario tiene la suya propia, con un diseño personalizado, adaptado al rol.
 
@@ -61,7 +61,7 @@ Esta pantalla representa la pantalla principal de la aplicación. Cada tipo de u
 
 Centrándonos en el primer rol mencionado, el Arrendador, se presentan los siguientes mockups.
 
-### Subir artículos - Core
+### Subir artículos - Core (CU2/CU10)
 
 Desde la pantalla de **Home** mencionada anteriormente, y desde la gran mayoría de las pantallas de la aplicación, se podrá pular el icono **"+"**, que nos llevará a la pantalla desde la que se podrán relenar los datos para subir un artículo que queramos poner en alquiler.
 
@@ -76,7 +76,7 @@ Desde la pantalla de **Home** mencionada anteriormente, y desde la gran mayoría
        alt="Datos artículo rellenos: Arrendatario">
 </div>
 
-### Perfil / Mis artículos - Core
+### Perfil / Mis artículos - Core (CU3)
 
 En la barra de navegación, encontraremos un icono correspondiente al perfil del usuario, si entramos, accederemos a la pantalla donde podremos ver nuestro datos de usuario como arrendador, junto con el listado de artículos que tenemos subidos para su alquiler. Desde aquí, también podremos acceder a la edción de nueustro perfil (mediante el icono del lápiz), a nuestra cartera (mediante le botón con este mismo nombre), y a la edición de aquellos artículos que actualmente no están alquilados por ningún usuario arrendatario (mediante el lápiz en cada uno de los artículos).
 
@@ -89,7 +89,7 @@ En la barra de navegación, encontraremos un icono correspondiente al perfil del
 
 En caso de que alguno de los artículos que tenemos subidos a la aplicación estén alquilados en ese momento, nos aparecerá un cartel que nos lo indicará claramente, junto con la fecha de finalización del alquiler en curso.
 
-### Edición perfil usuario - Core
+### Edición perfil usuario - Core ()
 
 Al acceder desde la pantalla anterior a la edición del perfil mediante el lápiz, nos encontramos con la siguiente pantalla:
 
@@ -114,7 +114,7 @@ Si pulsamos sobre los artículos que encontramos en la sección "Mis artículos"
 
 Desde esta pantalla podremos acceder también a la pantalla de edición del artículo, o podremos eliminar el artículo.
 
-### Edición detalles artículo - Core
+### Edición detalles artículo - Core (CU4)
 
 Al acceder a la edición de los detalles de un artículo, se nos muestra la siguiente pantalla:
 
@@ -128,7 +128,7 @@ Al acceder a la edición de los detalles de un artículo, se nos muestra la sigu
 Desde aquí, podremos editar cualquiera de los atributos asociados al artículo.
 
 
-### Cartera - Core
+### Cartera - Core (CU6)
 
 Como ya se ha mencionado, desde el perfil del arrendador, se podrá acceder a la cartera, desde donde se podrán revisar todos los movimientos del cliente en la aplicación, tanto los ingresos por alquiler, como las retiradas a su cuenta bancaria. La cartera viene representada por la siguiente pantalla:
 
@@ -139,7 +139,7 @@ Como ya se ha mencionado, desde el perfil del arrendador, se podrá acceder a la
        alt="Cartera: Arrendador">
 </div>
 
-### Notificaciones - No Core
+### Notificaciones - No Core (CU5/CU8)
 
 Al arrendador le llegarán distintos tipos de notificaciones, entre ellas:
 - Notificación por **FIN DE ALQUILER**.
@@ -173,7 +173,7 @@ Estas notificaciones, además, quedarán guardadas en un buzón de notificacione
 
 ## Mockups Arrendatario
 
-### Crear un kit - Core
+### Crear un kit - Core (CU27/CU21/CU22)
 
 Desde prácticamente cualquier pantalla de la aplicación, tras haber iniciado sesión en la aplicación con un perfil de rol **Arrendatario**, se podrá acceder a la pantalla de **creación de un kit** a través del icono **"+"** ubicado en la parte inferior derecha de la pantalla. Esta pantalla tendrá la siguiente composición;
 
@@ -188,7 +188,7 @@ Desde esta pantalla, podremos rellenar los datos necesarios para crear un kit qu
 
 También, podremos acceder a la edición de determinados datos de los artículos que se van añadiendo al kit, pulsando en el icono del lápiz.
 
-### Añadir Productos a un Kit - Core
+### Añadir Productos a un Kit - Core (CU27/CU26)
 
 Desde esta pantalla podremos realizar una búsqueda entre todos los artículos disponibles en la aplicación en las fechas indicadas para poder añadirlo al kit que estamos por alquilar. La pantalla seguiría el siguiente estilo:
 
@@ -199,7 +199,7 @@ Desde esta pantalla podremos realizar una búsqueda entre todos los artículos d
        alt="Añadir producto kit: Arrendatario">
 </div>
 
-### Edicion artículo en kit - Core
+### Edicion artículo en kit - Core (CU25)
 
 Desde esta pantalla podremos editar el tipo de envío que queremos para cada uno de los artículos que hemos incluído en el kit. 
 
@@ -210,7 +210,7 @@ Desde esta pantalla podremos editar el tipo de envío que queremos para cada uno
        alt="Elegir envío artículo kit: Arrendatario">
 </div>
 
-### Pago - Core
+### Pago - Core (CU23)
 
 Desde esta pantalla podremos realizar el pago del kit que hemos montado. En ella tendremos que rellenar los datos de la tarjeta con la que se va a pagar. Además, aparecerán todos los gastos asocuados al alquiler del kit. La pantalla será como se muestra a continuación:
 
@@ -221,21 +221,86 @@ Desde esta pantalla podremos realizar el pago del kit que hemos montado. En ella
        alt="Pago: Arrendatario">
 </div>
 
------- POR COMPLETAR -----
 
-### Perfil / Mis alquileres - Core
+### Perfil / Mis alquileres - Core (CU24)
+
+Como ya se ha mencionado, en la barra de navegación se encuentra un icono que corresponde al perfil del usuario. Al acceder a esta pantalla con rol Arrendatario, nos encontraremos el perfil del usuario, y los alquileres que tiene el mismo, puediendo entrar a ver sus detalles. También, se podrá acceder a la edición de los datos de si perfil.
 
 
+<div style="text-align: center;">
+  <img src="img/mockups/Perfil arrendatario-mis alquileres.png"
+       width="200"
+       style="object-fit: cover;"
+       alt="Edicion perfil: Arrendatario">
+</div>
 
-### Detalles kit - Core
+
+### Detalles kit - Core (CU24)
+
+Si en la pantalla anterior (Perfil / Mis alquileres) pulsamos sobre alguno de los kits que tiene el usuario en alquiler, se podrá acceder a los detalles del mismo. Esto se observa en la siguiente pantalla:
+
+<div style="text-align: center;">
+  <img src="img/mockups/Detalles kit alquilado.png"
+       width="200"
+       style="object-fit: cover;"
+       alt="Edicion perfil: Arrendatario">
+</div>
+
+### Edición perfil usuario - Core (CU15)
+
+Al ingual que para el perfil de arrendador, al acceder mediante el lápiz a la edición del perfil nos encontramos con una pantalla que sigue el siguiente estilo:
+
+<div style="text-align: center;">
+  <img src="img/mockups/Pantalla edición perfil arrendador.png"
+       width="200"
+       style="object-fit: cover;"
+       alt="Edicion perfil: Arrendatario">
+</div>
 
 
 ### Mockups Administrador
 
-### Gestión tipos productos/categorías - Core
+### Gestión tipos productos/categorías - Core (CU28/CU29)
 
-### Detalles tipo productos/categorías - Core
+Desde esta pantalla el administrador podrá filtrar, buscando el tipo de producto/categoría que desee y puediendo entrar a editarlo o ver sus detalles, si es necesario. También, se podrá acceder a la creación deun nuevo tipo de producto/categoría a través del icono "+" en la parte inferior de la pantalla.
 
-### Edición tipo productos/categorías - Core
+<div style="text-align: center;">
+  <img src="img/mockups/categorías-tipos prductos.png"
+       width="200"
+       style="object-fit: cover;"
+       alt="Tipos de productos/categorías: Arrendatario">
+</div>
 
-### Gestión usuarios - Core
+
+### Detalles tipo productos/categorías - Core (CU28/CU29)
+
+Desde esta pantalla, se podrán ver todos los detalles de la categoría, además de poder acceder a su edición mediante el icono del lápiz.
+
+<div style="text-align: center;">
+  <img src="img/mockups/Detalles tipo-categoría.png"
+       width="200"
+       style="object-fit: cover;"
+       alt="Tipos de productos/categorías: Arrendatario">
+</div>
+
+### Edición tipo productos/categorías - Core (CU28/CU29)
+
+Desde esta pantalla, se podrán editar los tipos de productos/categorías disponibles en la aplicación. La pantalla de creación de tipos de productos/categorías será exactamente igual, pero con los campos vacíos listos para rellenar.
+
+<div style="text-align: center;">
+  <img src="img/mockups/Detalles tipo-categoría.png"
+       width="200"
+       style="object-fit: cover;"
+       alt="Tipos de productos/categorías: Arrendatario">
+</div>
+
+### Gestión usuarios - Core (CU30)
+
+Desde esta pantalla, el administrador podrá buscar entre todos los usuarios de la aplicación, acceder a sus detalles y eliminarlos.
+
+<div style="text-align: center;">
+  <img src="img/mockups/gestión usuarios.png"
+       width="200"
+       style="object-fit: cover;"
+       alt="Tipos de productos/categorías: Arrendatario">
+</div>
