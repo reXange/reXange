@@ -184,14 +184,14 @@ Mientras Hygglo facilita el acceso a objetos individuales dentro de una comunida
 
 Grover es una plataforma de alquiler de tecnología que permite a particulares y empresas suscribirse para utilizar dispositivos electrónicos sin necesidad de comprarlos. Su modelo se basa en ofrecer flexibilidad, sostenibilidad y acceso a productos tecnológicos sin el compromiso de propiedad permanente.
 
-Grover está disponible en Alemania, España, Austria, los Países Bajos y los Estados Unidos.
+Grover está disponible en Alemania, España, Austria y los Países Bajos.
 
 ### Modelo de Grover
 
 - **Concepto:** Servicio de suscripción de productos tecnológicos y electrónicos alquilándolos de forma individual.
 - **Catálogo:** Bastante amplio y compuesto principalmente por productos tecnológicos de marcas reconocidas. Entre los dispositivos disponibles se encuentran smartphones, ordenadores portátiles, tablets, consolas, cámaras y productos de domótica.
 - **Modelo de Stock:** Grover gestiona su propio inventario; todos los dispositivos son propiedad de la empresa, no se trata de un marketplace entre particulares.
-- **Duración flexible:** Planes de 1, 3, 6, 12 o 24 meses. Se puede devolver anticipadamente o ampliar el período de alquiler con facilidad.
+- **Duración flexible:** Planes de +6, +12, +18 meses. Se puede devolver anticipadamente o ampliar el período de alquiler con facilidad.
 - **Opción de compra:** Al finalizar el período de suscripción, se puede optar por comprar el dispositivo por un precio reducido, devolverlo, o renovar la suscripción por otro producto.
 - **Modelo de negocio:** Ingresos recurrentes por suscripción mensual según el plan elegido. El precio varía según el dispositivo y la duración del contrato.
 - **Gestión de logística:** Entrega directa al domicilio. Devolución incluida mediante envío prepagado al final del periodo o en caso de cambio de dispositivo.
@@ -200,21 +200,29 @@ Grover está disponible en Alemania, España, Austria, los Países Bajos y los E
 
 En conclusión, Grover representa un competidor parcial dentro del ámbito del alquiler flexible, pero exclusivamente en el segmento tecnológico. Su modelo centralizado, la ausencia de marketplace entre particulares, la imposibilidad de crear kits personalizados y la falta de integración de servicios domésticos hacen que su propuesta difiera de una plataforma diseñada para equipar viviendas temporales de manera completa, colaborativa y adaptable a la movilidad internacional.
 
+### Comparativa y Diferenciación
 
-### Diferencias clave con KeaKit
+| Característica | KeaKit | Grover |
+|---|---|---|
+| Modelo Operativo | Marketplace bidireccional (Particular a Particular) | Proveedor único (Stock propio/gestionado) |
+| Público Objetivo | Movilidad Temporal (Erasmus, nómadas digitales) | Usuarios que necesitan dispositivos tecnológicos de forma flexible |
+| Kits Personalizados | ✅ El usuario arma su kit con objetos y servicios | ❌ Solo productos individuales o agrupados en carritos |
+| Objetos Alquilables | Objetos domésticos infrautilizados de particulares | Dispositivos tecnológicos |
+| Flexibilidad de Duración | Totalmente flexible, definida por el usuario | Periodos definidos (6, 12, 18 meses) ampliables |
+| Integración de Servicios | ✅ Posibilidad de integrar servicios esenciales (Internet, etc.) | ❌ Enfocado solo en objetos físicos (tecnologías) |
+| Notificaciones | Recordatorios de devolución y aviso de entrega | Recordatorios para el cliente (pagos, devoluciones, estado del contrato) |
+| Economía Circular | Fomenta la monetización de objetos locales infrautilizados | Basado en stock propio gestionado por la empresa |
+| Alcance Internacional | A nivel europeo | Alemania, España, Austria y los Países Bajos |
 
-Grover es una plataforma internacional especializada en el alquiler flexible de dispositivos tecnológicos como smartphones, ordenadores portátiles, consolas, etc. Su modelo se basa en el alquiler por suscripción, con una duración muy flexible, permitiendo contratos desde un mes en adelante. No obstante, su propuesta sigue centrándose exclusivamente en tecnología y en el alquiler de productos individuales gestionados directamente por la empresa.
+#### Ventajas de KeaKit con respecto a Grover
 
-A diferencia de nuestra aplicación, Grover no funciona como un marketplace entre particulares, sino como proveedor único del catálogo disponible. Los usuarios no pueden subir sus propios objetos para alquilarlos a terceros. Tampoco existe la posibilidad de crear kits personalizados que integren distintos objetos como alquiler único.
+- **Personalización y Solución Integral:** Ofrecemos la posibilidad de crear kits adecuados a las necesidades del usuario, incluyendo tanto objetos como servicios, algo que Grover no permite con su alquiler individual.
+- **Amplio Catálogo:** Mientras Grover se centra en tecnología, nuestra aplicación puede integrar mobiliario, electrodomésticos, tecnologías, servicios, etc.
+- **Modelo Colaborativo:** Permitimos a los usuarios obtener ingresos mediante el alquiler de sus productos, lo cual no es posible en Grover debido a que tan solo gestiona su propio stock.
+- **Enfoque Local y Sostenibilidad:** Al conectar oferta y demanda dentro de una misma ciudad, reducimos costes logísticos y contaminación relacionados con el transporte y almacenamiento.
+- **Escalabilidad Europea:** Nuestro mercado tiene como objetivo extenderse a nivel europeo, mientras que Grover se limita a Alemania, España, Austria y los Países Bajos.
 
-Nuestra aplicación, en cambio, está concebida específicamente para personas en movilidad temporal, como estudiantes Erasmus, jóvenes profesionales desplazados o nómadas digitales, que necesitan equipar un hogar completo durante unos meses. Frente al enfoque tecnológico de Grover, nuestra propuesta cubre una gama mucho más amplia de necesidades, incluyendo mobiliario, electrodomésticos, utensilios domésticos y servicios esenciales. El objetivo no es solo alquilar dispositivos electrónicos, sino permitir al usuario instalarse en una ciudad de forma rápida, económica y sostenible.
-
-Otra diferencia fundamental es su modelo de funcionamiento. Grover opera con un sistema donde la empresa adquiere y gestiona el stock. Nuestra aplicación, por el contrario, adopta un modelo de economía colaborativa bidireccional, donde los usuarios pueden ser tanto arrendadores como arrendatarios. Esto fomenta la reutilización de objetos locales y reduce costes logísticos.
-
-Asimismo, aunque Grover ofrece flexibilidad en la duración del alquiler y protección frente a daños, no integra funcionalidades como la creación de kits de hogar por ciudad, la integración de servicios básicos (internet, por ejemplo) o herramientas avanzadas de coordinación entre particulares.
-
-En resumen, mientras Grover proporciona una solución sólida y flexible para el alquiler tecnológico por suscripción, nuestra aplicación amplía significativamente el alcance del servicio, ofreciendo una solución integral y colaborativa adaptada a la vida temporal en otra ciudad.
-
+En resumen, Grover es una buena solución internacional para el alquiler flexible de tecnología por suscripción, pero siempre que no extienda su modelo de negocio al alquiler de otros productos y servicios, y no amplie su alcance a otros territorios europeos, no será necesario considerarlo una amenaza.
 
 ---
 
