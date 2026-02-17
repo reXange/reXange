@@ -86,25 +86,45 @@ En resumen, mientras Rentchester es una excelente solución de renting de mueble
 
 #### ¿Qué es?
 
-Peerby es una plataforma web cuyo objetivo es facilitar el alquiler o préstamo de artículos de un particular a otro, pensado para vecinos o miembros de un mismo barrio, y solo disponible en Alemania y Países Bajos, aunque están preparando su expansión a Estados Unidos.
+Peerby es una plataforma web cuyo objetivo es facilitar el alquiler o préstamo de artículos de un particular a otro, pensado para vecinos o miembros de un mismo barrio, y solo disponible en Bélgica y Países Bajos, aunque están preparando su expansión a Estados Unidos.
 
-#### ¿Cómo funciona?
+#### Modelo de Peerby
 
-El procedimiento de la plataforma es sencillo; a la hora de crear un perfil, el sistema pide elegir país y código postal para así conectar a todos aquellos usuarios que vivan cerca. Una vez creado este, se le mostrarán al usuario todos aquellos perfiles que se encuentren en sus proximidades, así como las ofertas creadas por estos mismos. Cuando el usuario encuentra un artículo en el que está interesado, no hay un sistema fijo para elegir fechas del alquiler o iniciar de forma oficial el mismo; estos detalles deben acordarse haciendo uso de un chat integrado de la aplicación.
+- **Concepto:** Servicio de prestado y alquiler de artículos entre miembros de un vecindario.
+- **Catálogo:** Muy amplio, abarca cualquier tipo de objeto que una persona pueda tener en su domicilio; herramientas, instrumentos, artículos del hogar, vehículos, entretenimiento, etc.
+- **Modelo de Stock:** Marketplace entre particulares, cada usuario gestiona su propio inventario.
+- **Duración flexible:** Flexibilidad muy alta, los propios usuarios deciden la disponibilidad y fechas de alquiler. No hay duraciones ni contratos fijos. 
+- **Opción de compra:** No hay, el sistema está completamente enfocado a alquileres y préstamos.
+- **Modelo de negocio:** Ingresos por una comisión extra aplicada a los alquileres o posibilidad de suprimir esta comisión pagando una suscripción anual.
+- **Gestión de logística:** No contemplada por el sistema, los propios usuarios se encargan del transporte de los objetos.
+- **Programa de protección contra daños:** Pagando la suscripción, el sistema ofrece a los usuarios una garantía de hasta 2000€ y participa como mediador en caso de hurto o daños.
+- **Sostenibilidad:** Una de las principales premisas del sistema. Fomentando la reutilización, Peerby favorece enormemente a la sostenibilidad y reduce el descarte masivo de objetos útiles.
 
-Peerby se lucra de este servicio o bien aplicando una tarifa adicional del 15% del alquiler que se realice, o bien mediante una membresía anual en la que se anula por completo esta tarifa adicional a cualquier alquiler.
+En conclusión, Peerby representa un competidor claro en la funcionalidad mas básica, con un catálogo, al igual que Keakit, completamente personalizado por los usuarios de la plataforma, así como también un gran aporte a la sostenibilidad. Sin embargo, tiene algunas debilidades obvias contra Keakit como la ausencia de gestión de logística por la plataforma, su enfoque local, y otros varios aspectos clave expuestos a continuación.
 
-También, de manera alternativa, aparecerán peticiones de otros usuarios, en las cuales muestran los mismos su interés en alquilar o pedir prestado un artículo específico, para así no solo facilitar la navegación por parte de los usuarios que quieran alquilar un objeto, sino también por parte de los que quieran crear una de estas ofertas.
+### Comparativa y Diferenciación
 
-En caso de daño a los artículos durante su periodo de alquiler o préstamo, Peerby puede llegar a ofrecer una garantía al dueño del artículo de hasta 2000 € siempre que cumpla con unas condiciones especificadas en sus condiciones de uso.
+| Característica | KeaKit | Peerby |
+|---|---|---|
+| Modelo Operativo | Marketplace bidireccional (Particular a Particular) | Marketplace bidireccional (Particular a Particular) |
+| Público Objetivo | Movilidad Temporal (Erasmus, nómadas digitales) | Miembros de un mismo vecindario |
+| Kits Personalizados | ✅ El usuario arma su kit con objetos y servicios | ❌ Solo productos individuales |
+| Objetos Alquilables | Objetos domésticos infrautilizados de particulares | Objetos domésticos infrautilizados de particulares |
+| Flexibilidad de Duración | Totalmente flexible, definida por el usuario | Totalmente flexible, definida por el usuario |
+| Integración de Servicios | ✅ Posibilidad de integrar servicios esenciales (Internet, etc.) | ❌ Enfocado solo en objetos físicos |
+| Notificaciones | Recordatorios de devolución y aviso de entrega | Mensajes y alertas de peticiones en el vecindario |
+| Economía Circular | Fomenta la monetización de objetos locales infrautilizados | Fomenta la monetización de objetos locales infrautilizados |
+| Alcance Internacional | A nivel europeo | Bélgica y Países bajos |
 
-Como curiosidad, Peerby ofrece la posibilidad de alquilar artículos a vecinos de forma gratuita, y por lo analizado en una de las comunidades más activas del sistema, este escenario no es precisamente infrecuente en algunos usuarios.
+### Ventajas de Keakit frente a Peerby
 
-#### Similitudes y diferencias con KeaKit
+- **Personalización y Solución Integral:** Ofrecemos la posibilidad de crear kits adecuados a las necesidades del usuario, incluyendo tanto objetos como servicios, algo que Peerby no permite con su alquiler individual.
+- **Integración de sistemas de envío:** Ofrecemos servicios de envío incluso entre ciudades distintas para aquellos usuarios que lo consideren necesario, lo cual no es una opción en Peerby. 
+- **Valoraciones y confianza:** Ofrecemos diferentes medidas de seguridad como el depósito en los alquileres, e implementamos valoraciones públicas para que los usuarios sepan claramente con quién están tratando, haciendo la experiencia más cómoda y segura, esta última es una información completamente invisible en Peerby.
+- **Disponibilidad en teléfonos móviles:** Ofrecemos nuestro sistema en aplicaciones móviles, lo cual es, en este contexto, una solución mucho más cómoda y eficaz (Facilidad para hacer y subir fotos, notificaciones, acceso rápido, etc.). Peerby, por otro lado, se limita exclusivamente a un sitio web.
+- **Escalabilidad Europea:** Nuestro mercado tiene como objetivo extenderse a nivel europeo, mientras que Peerby se limita a Bélgica y Países Bajos.
 
-Peerby está bastante alejada de KeaKit en líneas generales, principalmente por la simplicidad que ofrece la primera frente a la cantidad de funcionalidades de calidad de vida que KeaKit ofrece. Peerby está pensada para un uso comunitario y fuertemente local, además, no cuenta con opciones de internacionalización que permitan a un usuario usar sus servicios por toda Europa, ni tampoco servicios de transporte para objetos difíciles de transportar, que es una de las principales comodidades de KeaKit. En esencia, el alcance de Peerby es mucho menor que el de KeaKit, y aunque su funcionalidad principal y procedimientos básicos sean muy parecidos, cabe destacar también que la premisa de una es muy distinta a la otra; mientras que KeaKit se enfoca en permitir a usuarios que cuentan con objetos que no usan ganar un dinero gracias a ello y a otras personas alquilar conjuntos de artículos personalizados acorde a sus necesidades en un contexto de todo un área metropolitana, Peerby simplemente se enfoca en facilitar el reutilizamiento de objetos no usados entre vecinos de una misma barriada.
-
-En resumen, mientras que Peerby no aumente su alcance a otros territorios ni añada funcionalidades de calidad de vida como las que tiene KeaKit, no supondrá un competidor preocupante para el sistema a desarrollar.
+En resumen, aunque las ideas generales de ambos sistemas sean muy similares a simple vista, Keakit tiene multitud de opciones que lo hacen ser un servicio mucho más eficaz, accesible y completo que Peerby, por lo que mientras que este no aumente su alcance a otros territorios ni añada funcionalidades de calidad de vida como las que tiene KeaKit, no supondrá un competidor preocupante para el sistema a desarrollar.
 
 ---
 
