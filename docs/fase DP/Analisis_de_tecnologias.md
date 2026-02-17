@@ -36,6 +36,8 @@
 
 
 
+
+
 ## 1. Backend
 ### 1.1. Spring Boot
 <div style="text-align: center;">
@@ -132,7 +134,7 @@
 ### 2.2. React
 
 <div style="text-align: center;">
-  <img src="img/technologies/react.png" width="500" height="auto" style="object-fit: cover;" alt="React logo">
+  <img src="img/technologies/React.png" width="500" height="auto" style="object-fit: cover;" alt="React logo">
 </div>
 
 **Lenguaje:**  JavaScript o TypeScript
@@ -200,7 +202,7 @@
 ### 2.5. React Native
 
 <div style="text-align: center;">
-  <img src="img/technologies/React.png" width="500" height="auto" style="object-fit: cover;" alt="React Native logo">
+  <img src="img/technologies/react-native-logo.png" width="500" height="auto" style="object-fit: cover;" alt="React Native logo">
 </div>
 
 **Lenguaje:**  JavaScript / TypeScript
@@ -223,7 +225,7 @@
 ### 3.1. MariaDB
 
 <div style="text-align: center;">
-  <img src="img/technologies/mariadb.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
+  <img src="img/technologies/mariaDB-Logo.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
 </div>
 
 **Lenguaje:** SQL
@@ -421,51 +423,51 @@ Por último, desplegar la base de datos PostgreSQL de forma independiente es el 
 # 5. Tecnologías escogidas
 Tras realizar un análisis exhaustivo de ventajas y desventajas sobre todas las tecnologías propuestas, se han escogido las siguientes opciones.
 
-# 5.1. Desarrollo
+## 5.1 Desarrollo
 
-- **Spring Boot con Java** para el desarrollo backend.
-- **React Native con TypeScript** para el desarrollo frontend.
-- **PostgreSQL** como base de datos.
+- 🍃 **Spring Boot con Java** para el desarrollo backend.
+- ⚛️ **React Native con TypeScript** para el desarrollo frontend.
+- 🐘 **PostgreSQL** como base de datos.
 
-# 5.2. Despliegue
-- **Render** para el despliegue del backend
-- **Expo Application Services** para la compilación del apk e ipa, y despliegue de la página web.
-- **Uptodown, Aptoide, F-Droid** como tiendas para la descarga de la aplicación
-- **Docker** para contenerización.
+## 5.2 Despliegue
+- ☁️ **Render** para el despliegue del backend.
+- 📱 **Expo Application Services** para la compilación del apk e ipa, y despliegue de la página web.
+- 📲 **Uptodown, Aptoide, F-Droid** como tiendas para la descarga de la aplicación.
+- 🐳 **Docker** para contenerización.
 
-# 5.3. Integración y despliegue continuos
-- **Github Actions:** Utilizaremos un sistema de workflows similares a los anteriormente deesarrollados en la asignatura de EGC para el despliegue y la integración.
-- **SonarQube:** Para el analisis estatico de codigo.
-- **CheckStyle:** Revisa el estilo de codigo de java.
-- **PMD:** Revisa malas practicas y diseño del codigo principalmente enfocado en java.
-- **SpotBugs:** Busca posibles bugs en la aplicación.
-- **TypeScript Compiler** para pruebas de tipado de TypeScript.
-- **ESLint** para el lint del código.
-- **Jest** para testing unitario del frontend.
-- **JUnit** para testing del backend.
-- **Mockito** para realizar los mocks del testing de backend.
+## 5.3 CI/CD
+- 🐙 **Github Actions:** Utilizaremos un sistema de workflows similares a los anteriormente desarrollados en la asignatura de EGC para el despliegue y la integración.
+- 📡 **SonarQube:** Para el análisis estático de código.
+- 📏 **CheckStyle:** Revisa el estilo de código de Java.
+- 🧹 **PMD:** Revisa malas prácticas y diseño del código principalmente enfocado en Java.
+- 🐛 **SpotBugs:** Busca posibles bugs en la aplicación.
+- 🟦 **TypeScript Compiler:** Para pruebas de tipado de TypeScript.
+- 🔍 **ESLint:** Para el lint del código.
+- 🃏 **Jest:** Para testing unitario del frontend.
+- ☕ **JUnit:** Para testing del backend.
+- 🎭 **Mockito:** Para realizar los mocks del testing de backend.
 
-# 5.4. Gestión
-- **Clockify** para la gestión del tiempo y vigilancia de cumplimiento del Commitment Agreement.
-- **GitHub Projects** para observar la progresión de las tareas mediante el kanban del equipo.
+## 5.4 Gestión
+- ⏱️ **Clockify** para la gestión del tiempo y vigilancia de cumplimiento del Commitment Agreement.
+- 📋 **GitHub Projects** para observar la progresión de las tareas mediante el kanban del equipo.
 
-# 5.5. Comunicación
-- **Microsoft Teams** como herramienta principal de comunicación.
-- **Microsoft Excel** como Base Conocimiento compartida con otros equipos.
+## 5.5 Comunicación
+- 💬 **Microsoft Teams** como herramienta principal de comunicación.
+- 📗 **Microsoft Excel** como Base de Conocimiento compartida con otros equipos.
 
-# 5.6. Inteligencia Artificial
-- **Microsoft Copilot** para desarrollo de código o consultas.
-- **Gemini** para consultas y generación de imágenes.
+## 5.6 Inteligencia Artificial
+- 🤖 **Microsoft Copilot** para desarrollo de código o consultas.
+- ✨ **Gemini** para consultas y generación de imágenes.
 
 # 6. Análisis de riesgos y plan de contingencia
 | ID | Riesgo | Prioridad | Impacto en alcance | Impacto en tiempo/costes | Impacto en calidad | Probabilidad | Responsables de seguimiento | Responsables de respuesta | Plan de contingencia |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Alguna función es demasiado compleja de realizar con las herramientas escogidas | Alta | Alta | Baja | Alta | Media | Coordinador de equipo | Coordinador | Refactorización o uso de nuevas librerías que permitan el desarrollo de dicha funcionalidad. | 
-| 2 | Problemas de compatibilidad o disponibilidad en herramientas de desarrollo y plataformas de despliegue | Media | Baja | Baja | Baja | Media | Coordinador | Coordinador | Búsqueda y propuesta de herramientas alternativas con la misma funcionalidad y compatibles entre sí. |
-| 3 | Licencias o herramientas de software insuficientes | Baja | Medio | Medio | Bajo | Medio | Coordinador | Coordinador | Búsqueda y propuesta de herramientas gratuitas para cubrir esas necesidades |
-| 4 | Brechas de seguridad o pérdida de información | Alta | Bajo | Bajo | Alto | Baja | Coordinador | Coordinador | Copias de seguridad frecuentes y protocolos de seguridad |
-| 5 | Falta de disponibilidad de hardware o infraestructura | Alta | Alto | Medio | Medio | Baja | Coordinador | Coordinador | Uso de máquinas virtuales o solicitud de terminales a otras personas. |
-| 6 | Falta de conocimiento sobre las herramientas | Alta | Bajo | Alto | Medio | Media | Coordinador de equipo | Coordinador de equipo | Realización de formación mediante tutoriales de YouTube o cursos online. |
+| 1 | Alguna función es demasiado compleja de realizar con las herramientas escogidas | 🔴Alta | 🔴Alta | 🟢Baja | 🔴Alta | 🟡Media | Coordinador de equipo | Coordinador | Refactorización o uso de nuevas librerías que permitan el desarrollo de dicha funcionalidad. | 
+| 2 | Problemas de compatibilidad o disponibilidad en herramientas de desarrollo y plataformas de despliegue | 🟡Media | 🟢Baja | 🟢Baja | 🟢Baja | 🟡Media | Coordinador | Coordinador | Búsqueda y propuesta de herramientas alternativas con la misma funcionalidad y compatibles entre sí. |
+| 3 | Licencias o herramientas de software insuficientes | 🟢Baja | 🟡Medio | 🟡Medio | 🟢Bajo | 🟡Medio | Coordinador | Coordinador | Búsqueda y propuesta de herramientas gratuitas para cubrir esas necesidades |
+| 4 | Brechas de seguridad o pérdida de información | 🔴Alta | 🟢Bajo | 🟢Bajo | 🔴Alto | 🟢Baja | Coordinador | Coordinador | Copias de seguridad frecuentes y protocolos de seguridad |
+| 5 | Falta de disponibilidad de hardware o infraestructura | 🔴Alta | 🔴Alta | 🟡Medio | 🟡Medio | 🟢Baja | Coordinador | Coordinador | Uso de máquinas virtuales o solicitud de terminales a otras personas. |
+| 6 | Falta de conocimiento sobre las herramientas | 🔴Alta | 🟢Bajo | 🔴Alto | 🟡Medio | 🟡Media | Coordinador de equipo | Coordinador de equipo | Realización de formación mediante tutoriales de YouTube o cursos online. |
 
 *Nota: El "coordinador" se refiere al coordinador del equipo 6 en su totalidad, mientras que el "coordinador de equipo" se refiere al coordinador del subgrupo afectado por el suceso del riesgo.*
 
@@ -476,8 +478,9 @@ Tras realizar un análisis exhaustivo de ventajas y desventajas sobre todas las 
 | 1.0.0   | 08/02/2026 | Análisis inicial de tecnologías para backend (Spring Boot, Django REST, NestJS) y frontend (Vue, React, Angular, Flutter, React Native) | Luis Emmanuel Chavez Malave, Lucía Ponce García de Sola |
 | 1.1.0   | 12/02/2026 | Análisis inicial de tecnologías para base de datos (MariaDB, PostgreSQL) y plataformas de despliegue. | Marta de la Calle González |
 | 2.0.0 | 15/02/2026 | Decisión final de tecnologías escogidas para desarrollo, despliegue, integración continua, gestión, comunicación e IA. Adición de análisis de riesgos y plan de contingencia. Reorganización de la numeración de secciones. | Luis Emmanuel Chavez Malave, Lucía Ponce García de Sola, Marta de la Calle González |
+| 2.0.1 | 17/02/2026 | Arreglo de imagenes no subidas o borradas y agregar emojis para volver el documento mas visual | Luis Emmanuel Chavez Malave |
 
 ---
-**Redactado por:** Luis Emmanuel Chavez Malave, Lucía Ponce García de Sola y Marta de la Calle González  
-**Fecha de redacción:** 15/02/2026  
-**Versión:** 2.0.0
+**Redactado por:** Luis Emmanuel Chavez Malave y Marta de la Calle González  
+**Fecha de redacción:** 17/02/2026  
+**Versión:** 2.0.1
