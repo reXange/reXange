@@ -262,6 +262,7 @@
 - Mejor soporte para geolocalización.
 - Mejor concurrencia. Gestiona de manera eficiente miles de usuarios concurrentes.
 - Soporte avanzado para JSON y datos semi-estructurados.
+- Extension de Postgis para guardar ubicaciones en forma de geometry.
 
 ❌ **Desventajas:**  
 -  Mayor consumo de recursos.
