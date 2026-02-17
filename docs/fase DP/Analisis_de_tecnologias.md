@@ -225,7 +225,7 @@
 ### 3.1. MariaDB
 
 <div style="text-align: center;">
-  <img src="img/technologies/mariaDB-Logo.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
+  <img src="img/technologies/MariaDB-Logo.png" width="500" height="auto" style="object-fit: cover;" alt="MariaDB logo">
 </div>
 
 **Lenguaje:** SQL
@@ -247,7 +247,7 @@
 ### 3.2. PostgreSQL
 
 <div style="text-align: center;">
-  <img src="img/technologies/postgre.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
+  <img src="img/technologies/postgre.png" width="500" height="auto" style="object-fit: cover;" alt="PostgreSQL logo">
 </div>
 
 **Lenguaje:** SQL
@@ -275,7 +275,7 @@ La elección de una plataforma de despliegue para el backend es fundamental para
 #### 4.1.1. Render
 
 <div style="text-align: center;">
-  <img src="img/technologies/render.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
+  <img src="img/technologies/render.png" width="500" height="auto" style="object-fit: cover;" alt="Render logo">
 </div>
 
 **Documentación:**  
@@ -299,7 +299,7 @@ La elección de una plataforma de despliegue para el backend es fundamental para
 #### 4.1.2. Railway
 
 <div style="text-align: center;">
-  <img src="img/technologies/railway.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
+  <img src="img/technologies/railway.png" width="500" height="auto" style="object-fit: cover;" alt="Railway logo">
 </div>
 
 **Documentación:**  
@@ -323,7 +323,7 @@ En cuanto al frontend, el despliegue en una arquitectura de React Native con Typ
 #### 4.2.1. Expo Application Services
 
 <div style="text-align: center;">
-  <img src="img/technologies/expo.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
+  <img src="img/technologies/expo.png" width="500" height="auto" style="object-fit: cover;" alt="Expo EAS logo">
 </div>
 
 **Documentación:**  
@@ -352,7 +352,7 @@ Por último, desplegar la base de datos PostgreSQL de forma independiente es el 
 #### 4.3.1. Neon.tech
 
 <div style="text-align: center;">
-  <img src="img/technologies/neon.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
+  <img src="img/technologies/neon.png" width="500" height="auto" style="object-fit: cover;" alt="Neon logo">
 </div>
 
 **Documentación:**  
@@ -376,7 +376,7 @@ Por último, desplegar la base de datos PostgreSQL de forma independiente es el 
 #### 4.3.2. Supabase
 
 <div style="text-align: center;">
-  <img src="img/technologies/supabase.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
+  <img src="img/technologies/supabase.png" width="500" height="auto" style="object-fit: cover;" alt="Supabase logo">
 </div>
 
 **Documentación:**  
@@ -400,7 +400,7 @@ Por último, desplegar la base de datos PostgreSQL de forma independiente es el 
 #### 4.3.3. Render
 
 <div style="text-align: center;">
-  <img src="img/technologies/render.png" width="500" height="auto" style="object-fit: cover;" alt="Django REST framework logo">
+  <img src="img/technologies/render.png" width="500" height="auto" style="object-fit: cover;" alt="Render logo">
 </div>
 
 **Documentación:**  
@@ -479,6 +479,8 @@ Tras realizar un análisis exhaustivo de ventajas y desventajas sobre todas las 
 | 1.1.0   | 12/02/2026 | Análisis inicial de tecnologías para base de datos (MariaDB, PostgreSQL) y plataformas de despliegue. | Marta de la Calle González |
 | 2.0.0 | 15/02/2026 | Decisión final de tecnologías escogidas para desarrollo, despliegue, integración continua, gestión, comunicación e IA. Adición de análisis de riesgos y plan de contingencia. Reorganización de la numeración de secciones. | Luis Emmanuel Chavez Malave, Lucía Ponce García de Sola, Marta de la Calle González |
 | 2.0.1 | 17/02/2026 | Arreglo de imagenes no subidas o borradas y agregar emojis para volver el documento mas visual | Luis Emmanuel Chavez Malave |
+| 2.0.2 | 17/02/2026 | Pie de foto de las imágenes | Marta de la Calle González |
+
 
 ---
 **Redactado por:** Luis Emmanuel Chavez Malave y Marta de la Calle González  
