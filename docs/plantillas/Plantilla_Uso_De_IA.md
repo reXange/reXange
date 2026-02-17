@@ -10,7 +10,7 @@ El objetivo de este documento consiste en detallar el uso de herramientas de Int
 ### Interacción X
 **Herramienta y versión de Inteligencia Artificial utilizada:** "Herramienta empleada"
 
-**Fecha de uso**: "Fecha de uso"
+**Fecha de uso:** "Fecha de uso"
 
 **Prompt utilizado:** "Prompt utilizado"
 
@@ -18,4 +18,4 @@ El objetivo de este documento consiste en detallar el uso de herramientas de Int
 
 **Objetivo del uso:** "Objetivo del uso"
 
-**Enlace a la conversación:**: "Enlace"
+**Enlace a la conversación:** "Enlace"
