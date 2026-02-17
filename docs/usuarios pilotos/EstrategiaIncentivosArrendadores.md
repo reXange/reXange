@@ -44,7 +44,7 @@ A continuación se detallan las ventajas exclusivas diseñadas para atacar los m
 
 ---
 
-### C. Perfil: CARMEN (Madre con hijos)
+### C. Perfil: (Madre con hijos)
 **Foco:** Higiene, altruismo y protección de objetos sentimentales/caros.
 
 * **Donación de un % a una ONG Infantil**
@@ -53,6 +53,6 @@ A continuación se detallan las ventajas exclusivas diseñadas para atacar los m
 
 * **Garantía de "Compra si se rompe"**
     * **Descripción:** Si el juguete o la cuna sufren un daño irreparable, KeaKit no solo cubre la reparación, sino que compra el artículo al precio de mercado actual.
-    * **Por qué funciona:** Los objetos infantiles tienen un alto riesgo de rotura. Esta garantía extrema elimina el miedo a perder el valor del objeto, superior a un seguro estándar de reparación.
+    * **Razón:** Los objetos infantiles tienen un alto riesgo de rotura. Esta garantía extrema elimina el miedo a perder el valor del objeto, superior a un seguro estándar de reparación.
 
 ---
