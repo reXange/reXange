@@ -125,6 +125,13 @@ Los nombres deben ser descriptivos pero concisos. Deberán estar escritos exclus
 
 En ningún caso se utilizarán caracteres especiales o la letra ñ, para evitar problemas de codificación. Aquellas instancias de la letra ñ podrán ser sustituidas por una n. Las palabras que contengan caracteres especiales podrán escribirse sin ellos. 
 
+Si la fecha ha de escribirse en el nombre del documento, deberá hacerse en el formato "añomesdia". Por ejemplo:
+
+```
+acta-reunion-20260122.md
+```
+
+
 #### Ejemplo de buen nombre de archivo
 
 **Ejemplo 1:**
