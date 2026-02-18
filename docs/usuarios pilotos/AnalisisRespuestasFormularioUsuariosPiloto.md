@@ -1,8 +1,8 @@
 # Informe de Resultados: Encuesta Piloto KeaKit
 
-**Fecha del informe:** 17/02/2026
+**Fecha del informe:** 18/02/2026
 **Fuente de datos:** Formulario de Captación Usuarios Piloto
-**Muestra total analizada:** 25 usuarios
+**Muestra total analizada:** 30 usuarios
 
 ---
 
@@ -14,16 +14,16 @@ La validación del problema se intensifica con la incorporación de perfiles de 
 
 | Metrica | Resultado | Observaciones |
 | :--- | :---: | :--- |
-| **Tasa de Conversion (Pilotos)** | **76%** | 19 de 25 usuarios mostraron interes en probar la App. |
-| **Satisfaccion UX (UI)** | **4.3 / 5** | La interfaz se percibe intuitiva. |
-| **Confianza Visual** | **4.1 / 5** | Nivel de confianza para introducir datos bancarios. |
+| **Tasa de Conversion (Pilotos)** | **43%** | 13 de 30 usuarios mostraron interes en probar la App. |
+| **Satisfaccion UX (UI)** | **4.5 / 5** | La interfaz se percibe intuitiva. |
+| **Confianza Visual** | **4 / 5** | Nivel de confianza para introducir datos bancarios. |
 | **Claridad de Precios** | **4.1 / 5** | Ligera bajada. El perfil nomada indico menor claridad (3/5). |
 
 ---
 
 ## 2. Analisis: ARRENDATARIOS (La Demanda)
 *Perfil: Estudiantes Erasmus, Practicas y Nomadas Digitales (18-24 años).*
-*Total en la muestra: 10*
+*Total en la muestra: 12*
 
 ### El Dolor (Pain Points)
 Se detecta un caso extremo de coste hundido que eleva la media de gasto ineficiente:
@@ -36,16 +36,16 @@ Se detecta un caso extremo de coste hundido que eleva la media de gasto ineficie
 ### Preferencias de Producto
 * **Categorias Prioritarias:**
     1.  Cocina: Microondas, cafetera y menaje (Masiva demanda).
-    2.  Estudio: Monitor y silla ergonomica (Crece la demanda con los nomadas).
-    3.  Servicios: Router 4G/5G (Internet inmediato).
-* **Modelo de Pago:** Preferencia absoluta por el Pack Cerrado (Todo incluido).
+    2.  Servicios: Router 4G/5G (Internet inmediato).
+    3.  Dormitorio: Ropa de cama, almohada, lámpara... 
+* **Modelo de Pago:** El 66% se decanta por la opción "Pack Cerrado" (Todo incluido).
 * **Seguro vs. Fianza:** Clara preferencia por el seguro de daños frente a depositos reembolsables.
 
 ---
 
 ## 3. Analisis: ARRENDADORES (La Oferta)
 *Perfil: Propietarios o inquilinos con objetos en desuso.*
-*Total en la muestra: 15*
+*Total en la muestra: 18*
 
 ### Perfiles
 Se consolidan tres arquetipos:
@@ -85,31 +85,25 @@ A continuacion, los usuarios segmentados para la fase de captacion.
 | Email | Perfil | Nivel Interes | Notas |
 | :--- | :--- | :--- | :--- |
 | `**ohorquezcale*******` | Nomada | **Muy Alto** | **Lead VIP.** Gasto 500 EUR en maletas. Busca Kit Estudio + Internet. |
-| `**rletix*****` | Estudiante | Alto | Busca pack cocina/dormitorio. |
 | `**ndela.rivera.per*****` | Nomada | Alto | Dispuesto a pagar mas. |
-| `**viermiladossant*****` | Erasmus | Alto | Valora comodidad. |
-| `**ndeguti*****` | Erasmus | Alto | Presupuesto bajo (<50 EUR). |
 | `**orai*****` | Erasmus | Alto | Busca precio. |
-| `**atriz.pinto.pulid*****` | Erasmus | Alto | Interes en estudio. |
-| `**ranosardaalva*****` | Erasmus | Alto | Convertir antes de que compre. |
-| `**lionorob*****` | Practicas | Medio | Valora impacto eco. |
-| `**rola.valeroh*****` | Estudiante | Bajo | Prefiere comprar, aun dudosa. |
+| `**oralarcon*****` | Erasmus | Alto | Valora el ahorro y la sostenibilidad de la idea. |
 
-### Arrendadores (Oferta)
+### Arrend0adores (Oferta)
 *Usuarios con objetos disponibles.*
 
 | Email | Perfil | Objetos Clave | Estrategia |
 | :--- | :--- | :--- | :--- |
-| `**garri*****` | Eco-Colaborador | Muebles peq. | **Prioridad:** Ofrecer gestion integral. |
+| `**magarri*****` | Eco-Colaborador | Muebles peq. | **Prioridad:** Ofrecer gestion integral. |
 | `**trellarivero*****` | Eco-Colaborador | Muebles/Deco | **Prioridad:** No le importa el dinero. |
 | `**ufoue*****` | Rentabilizador | Vajilla/Menaje | Material nuevo. Ideal Kit Cocina. |
 | `**ovarfe*****` | Practico | Vajilla/Menaje | Tiene habitaciones vacias. |
 | `**ravigarri*****` | Eco-Colaborador | Ropa cama | Quiere crear sus propios kits. |
-| `**oysvilareci*****` | Eco-Colaborador | Ropa cama | Ayudar a estudiantes. |
 | `**rgiovm24*****` | Rentabilizador | Muebles | Busca ingreso pasivo. |
 | `**rlacastrorojas*****` | Rentabilizador | Varios | Busca inmediatez. |
 | `**urtado*****` | Practico | Electrodomesticos | Motivado por dinero. |
 | `**yerdl0*****` | Practico | Muebles | Miedo al robo. |
+| `**elbenit*****` | Rentabilizador | Muebles | Fomentar la reutilización |
 
 ### Usuarios No Interesados (Feedback Negativo)
 * `**nupandaz1*****`: Arrendador. Rechaza por lio administrativo.
