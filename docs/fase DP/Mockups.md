@@ -7,6 +7,10 @@ Para ello, en primer lugar debemos tener en cuenta que nuestra aplicación cuent
 - **Arrendatario**: Aquel que alquila kits, artículos individuales o servicios.
 - **Administrador**: Aquel que se encarga de la administración de la aplicación.
 
+En el siguiente enlace, se puede acceder al prototipo funcional de la aplicación: [Prototipo funcional](https://keakit-prototype.netlify.app/)
+
+En caso de querer empezar la navegación desde 0, pulsar sobre el logo de la aplicaicón en cualquiera de las pantallas (borrará los datos registrados en el navegador, para poder reiniciar el prototoipo).
+
 ## Índice
 
 ### [Mockups Generales](#mockups-generales-1)
