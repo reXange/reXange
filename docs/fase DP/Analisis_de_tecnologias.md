@@ -463,14 +463,28 @@ Tras realizar un análisis exhaustivo de ventajas y desventajas sobre todas las 
 # 6. Análisis de riesgos y plan de contingencia
 | ID | Riesgo | Prioridad | Impacto en alcance | Impacto en tiempo/costes | Impacto en calidad | Probabilidad | Responsables de seguimiento | Responsables de respuesta | Plan de contingencia |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Alguna función es demasiado compleja de realizar con las herramientas escogidas | 🔴Alta | 🔴Alta | 🟢Baja | 🔴Alta | 🟡Media | Coordinador de equipo | Coordinador | Refactorización o uso de nuevas librerías que permitan el desarrollo de dicha funcionalidad. | 
-| 2 | Problemas de compatibilidad o disponibilidad en herramientas de desarrollo y plataformas de despliegue | 🟡Media | 🟢Baja | 🟢Baja | 🟢Baja | 🟡Media | Coordinador | Coordinador | Búsqueda y propuesta de herramientas alternativas con la misma funcionalidad y compatibles entre sí. |
-| 3 | Licencias o herramientas de software insuficientes | 🟢Baja | 🟡Medio | 🟡Medio | 🟢Bajo | 🟡Medio | Coordinador | Coordinador | Búsqueda y propuesta de herramientas gratuitas para cubrir esas necesidades |
-| 4 | Brechas de seguridad o pérdida de información | 🔴Alta | 🟢Bajo | 🟢Bajo | 🔴Alto | 🟢Baja | Coordinador | Coordinador | Copias de seguridad frecuentes y protocolos de seguridad |
-| 5 | Falta de disponibilidad de hardware o infraestructura | 🔴Alta | 🔴Alta | 🟡Medio | 🟡Medio | 🟢Baja | Coordinador | Coordinador | Uso de máquinas virtuales o solicitud de terminales a otras personas. |
-| 6 | Falta de conocimiento sobre las herramientas | 🔴Alta | 🟢Bajo | 🔴Alto | 🟡Medio | 🟡Media | Coordinador de equipo | Coordinador de equipo | Realización de formación mediante tutoriales de YouTube o cursos online. |
+| 1 | Alguna función es demasiado compleja de realizar con las herramientas escogidas | 🟡7 | 🔴9 | 🟢4 | 🔴8 | 🟡5 | Coordinador de equipo | Coordinador | Refactorización o uso de nuevas librerías que permitan el desarrollo de dicha funcionalidad. | 
+| 2 | Problemas de compatibilidad o disponibilidad en herramientas de desarrollo y plataformas de despliegue | 🟡7 | 🟢3 | 🟢2 | 🟢2 | 🟡5 | Coordinador | Coordinador | Búsqueda y propuesta de herramientas alternativas con la misma funcionalidad y compatibles entre sí. |
+| 3 | Licencias o herramientas de software insuficientes | 🟢2 | 🟡5 | 🟡6 | 🟢2 | 🟡5 | Coordinador | Coordinador | Búsqueda y propuesta de herramientas gratuitas para cubrir esas necesidades |
+| 4 | Brechas de seguridad o pérdida de información | 🔴8 | 🟢2 | 🟢4 | 🔴9 | 🟢2 | Coordinador | Coordinador | Copias de seguridad frecuentes y protocolos de seguridad |
+| 5 | Falta de disponibilidad de hardware o infraestructura | 🔴8 | 🟡6 | 🟡7 | 🟡5 | 🟢2 | Coordinador | Coordinador | Uso de máquinas virtuales o solicitud de terminales a otras personas. |
+| 6 | Falta de conocimiento sobre las herramientas | 🟡6 | 🟢2 | 🔴9 | 🟡7 | 🟡6 | Coordinador de equipo | Coordinador de equipo | Realización de formación mediante tutoriales de YouTube o cursos online. |
+| 7 | Indisponibilidad temporal de uno o mas miembros del equipo | 🟢4 | 🟢2 | 🟢2 | 🟢1 | 🔴8 | Coordinador de equipo | Coordinador de equipo | Redistribución y equilibrio de tareas |
+| 8 | Documentación pobre o mal redactada | 🟡5 | 🟢2 | 🟢1 | 🟡7 | 🟡5 | Coordinador de equipo | Coordinador de equipo | Redistribución y equilibrio de tareas |
+| 9 | Problemas con la base de datos (fin de quota) | 🔴9 | 🟡5 | 🔴9 | 🟡7 | 🟡6 | Coordinador | Coordinador | Ampliación de plan |
+| 10 | Fallo del build con expo | 🟡5 | 🟡7 | 🟡7 | 🟡5 | 🟡5 | Coordinador de equipo | Coordinador | Realizar el build del apk con el propio React Native |
+| 11 | Un miembro no cumple con los estandares de calidad minimos establecidos a lo largo de la carrera | 🟢2 | 🟢1 | 🟢1 | 🟢2 | 🟢2 | Coordinador de equipo | Coordinador de equipo | Pair programming con otro miembro mejor tecnicamente |
+| 12 | Mal recibimiento de la idea por parte de los usuarios pilotos | 🟢4 | 🟢3 | 🟢3 | 🟢4 | 🟢4 | Coordinador | Coordinador | Recopilar mejoras propuestas por los usuarios piloto, analizarlas e implementarlas |
+| 13 | Baja productividad de los miembros del equipo por cercania con exámenes de otras asignaturas | 🟢4 | 🟢2 | 🟢2 | 🟢4 | 🔴9 | Coordinador de equipo | Coordinador | Ligero aumento de los puntos de historia antes de dichas fechas y disminucion en fecha de examenes |
+| 14 | Perdida de dias de feedback por factores externos (ej. medioambientales) | 🟡5 | 🟢4 | 🟡6 | 🟡5 | 🟡7 | Coordinador | Coordinador | Comunicación de dudas mediante correo electrónico a los profesores de la asignatura |
 
 *Nota: El "coordinador" se refiere al coordinador del equipo 6 en su totalidad, mientras que el "coordinador de equipo" se refiere al coordinador del subgrupo afectado por el suceso del riesgo.*
+
+*semaforo de riesgos:*
+🟢1-4 Bajo
+🟡5-7 medio
+🔴8-10 Alto
+
 
 ## 7. Historial de versiones
 
@@ -481,9 +495,9 @@ Tras realizar un análisis exhaustivo de ventajas y desventajas sobre todas las 
 | 2.0.0 | 15/02/2026 | Decisión final de tecnologías escogidas para desarrollo, despliegue, integración continua, gestión, comunicación e IA. Adición de análisis de riesgos y plan de contingencia. Reorganización de la numeración de secciones. | Luis Emmanuel Chavez Malave, Lucía Ponce García de Sola, Marta de la Calle González |
 | 2.0.1 | 17/02/2026 | Arreglo de imagenes no subidas o borradas y agregar emojis para volver el documento mas visual | Luis Emmanuel Chavez Malave |
 | 2.0.2 | 17/02/2026 | Pie de foto de las imágenes | Marta de la Calle González |
-
+| 2.1.0 | 18/02/2026 | Revision de Análisis de riesgos | Luis Emmanuel Chavez Malave |
 
 ---
-**Redactado por:** Luis Emmanuel Chavez Malave y Marta de la Calle González  
-**Fecha de redacción:** 17/02/2026  
-**Versión:** 2.0.1
+**Redactado por:** Luis Emmanuel Chavez Malave
+**Fecha de redacción:** 18/02/2026  
+**Versión:** 2.1.0
