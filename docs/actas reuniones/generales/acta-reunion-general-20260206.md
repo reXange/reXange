@@ -2,10 +2,10 @@
 
 ## Información general
 
-**Fecha:** 06/02/2025  
-**Hora:** 15:37 - 16:16  
-**Lugar:** Microsoft Teams  
-**Grupo convocado:** Grupo al completo
+**Fecha:** [06/02/2025]
+**Hora:** [15:37 - 16:16] 
+**Lugar:** Teams  
+**Grupo convocado:** Todo el equipo
 
 ## Participantes
 

@@ -5,7 +5,7 @@
 **Fecha:** [15/02/2026]  
 **Hora:** [11:00 - 11:54]  
 **Lugar:** Teams  
-**Grupo convocado:** Subgrupo 4 (Usuarios Pilotos)
+**Grupo convocado:** Grupo 4
 
 ## Participantes
 
