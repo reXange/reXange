@@ -134,7 +134,7 @@
 ### 2.2. React
 
 <div style="text-align: center;">
-  <img src="img/technologies/React.png" width="500" height="auto" style="object-fit: cover;" alt="React logo">
+  <img src="img/technologies/react.png" width="500" height="auto" style="object-fit: cover;" alt="React logo">
 </div>
 
 **Lenguaje:**  JavaScript o TypeScript
@@ -225,7 +225,7 @@
 ### 3.1. MariaDB
 
 <div style="text-align: center;">
-  <img src="img/technologies/MariaDB-Logo.png" width="500" height="auto" style="object-fit: cover;" alt="MariaDB logo">
+  <img src="img/technologies/mariadb-logo.png" width="500" height="auto" style="object-fit: cover;" alt="MariaDB logo">
 </div>
 
 **Lenguaje:** SQL
@@ -496,6 +496,7 @@ Tras realizar un análisis exhaustivo de ventajas y desventajas sobre todas las 
 | 2.0.1 | 17/02/2026 | Arreglo de imagenes no subidas o borradas y agregar emojis para volver el documento mas visual | Luis Emmanuel Chavez Malave |
 | 2.0.2 | 17/02/2026 | Pie de foto de las imágenes | Marta de la Calle González |
 | 2.1.0 | 18/02/2026 | Revision de Análisis de riesgos | Luis Emmanuel Chavez Malave |
+| 2.1.1 | 18/02/2026 | Corrección referencias obsoletas a imágenes | Rosa María Espinosa Martínez |
 
 ---
 **Redactado por:** Luis Emmanuel Chavez Malave

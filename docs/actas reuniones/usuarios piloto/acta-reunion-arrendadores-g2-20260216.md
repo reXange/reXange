@@ -2,9 +2,9 @@
 
 ## Información general
 
-**Fecha:** 16/02/2026
-**Hora:** 20:00 - 20:40  
-**Lugar:** Sevilla (Telemático)  
+**Fecha:** [16/02/2026]
+**Hora:** [20:00 - 20:40]
+**Lugar:** Teams
 **Grupo convocado:** Grupo 2 
 
 ## Participantes
@@ -22,16 +22,16 @@
 ## Orden del día
 
 1. Coordinación con el otro grupo 
-2. Tareas a Realizar
+2. Tareas a realizar
 3. Reparto de tareas
 4. Ruegos y preguntas
 
 ## Desarrollo de la reunión
 
-### 1. Coordubación con el otro grupo
+### 1. Coordinación con el otro grupo
 Se ha comentado por parte de Ismael el trabajo realizado por el grupo 4 (que tiene asignado la misma tarea que el grupo 4). Con ello, se han modificado las tareas previstas para esta semana.
 
-### 2. Tareas a Realizar
+### 2. Tareas a realizar
 Se han enumerado las tareas a realizar a lo largo de esta semana:
 - Crear perfiles de usuarios pilotos
 - Cuestionario
