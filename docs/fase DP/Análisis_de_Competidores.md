@@ -17,7 +17,6 @@
 
 ## Tabla Comparativa de Funcionalidades con los competidores analizados
 
-### Leyenda
 ✅ Disponible
 🟡 Disponible con variaciones
 ❌ No disponible
