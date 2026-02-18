@@ -17,6 +17,11 @@
 
 ## Tabla Comparativa de Funcionalidades con los competidores analizados
 
+### Leyenda
+✅ Disponible
+🟡 Disponible con variaciones
+❌ No disponible
+
 | Característica | Peerby | Rentik | Grover | Rentchester | Hygglo | Life4Rent |
 |---|---|---|---|---|---|---|
 | Posibilidad de alquilar objetos tanto individualmente como en forma de kit | ❌ | ❌ | 🟡 No existen kits preconfigurados, pero puedes añadir múltiple objetos a la cesta y alquilarlos a la vez | 🟡 No puedes crear un pack personalizado, o alquilas un mueble o packs preconfigurados | ❌ | ❌ |
