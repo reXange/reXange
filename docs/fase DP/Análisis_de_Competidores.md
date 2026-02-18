@@ -19,7 +19,7 @@
 
 | Característica | Peerby | Rentik | Grover | Rentchester | Hygglo | Life4Rent |
 |---|---|---|---|---|---|---|
-| Posibilidad de alquilar objetos tanto individualmente como en forma de kit | ❌ | ❌ | 🟡 No existes kits preconfigurados, pero puedes añadir múltiple objetos a la cesta y alquilarlos a la vez | 🟡 No puedes crear un pack personalizado, o alquilas un mueble o packs preconfigurados | ❌ | ❌ |
+| Posibilidad de alquilar objetos tanto individualmente como en forma de kit | ❌ | ❌ | 🟡 No existen kits preconfigurados, pero puedes añadir múltiple objetos a la cesta y alquilarlos a la vez | 🟡 No puedes crear un pack personalizado, o alquilas un mueble o packs preconfigurados | ❌ | ❌ |
 | Funcionalidad de "avísame cuando esté disponible" para artículos específicos | 🟡 Hay una funcionalidad similar, los miembros de una comunidad pueden hacer anuncios de objetos que necesitan para que otros miembros que los tienen los atiendan directamente | ❌ | ❌ | ❌ Bajo stock propio | ❌ | 🟡 Notificaciones Push cuando recibes mensajes, reservas o actualizaciones, pero no hay alertas específicas para avisar cuando un artículo vuelva a estar disponible automáticamente |
 | Depósito de garantía para asegurar que los objetos no son dañados durante su alquiler | 🟡 No en forma de depósito del usuario, sino como una garantía gestionada por el propio sistema | 🟡 Rentik no utiliza un depósito como tal, sino un seguro obligatorio incluido en la cuota mensual que cubre daños, robos y accidentes del dispositivo | 🟡 No existe un depósito, pero tiene un programa de protección contra daños que cubre reparaciones hasta un porcentaje significativo | ❌ Sin depósito inicial | 🟡 No hay depósito, pero existe programa de protección contra daños | 🟡 No hay depósito tradicional, pero ofrece un programa de protección opcional (add-on del 3%) que cubre daño, pérdida o robo hasta cierto límite |
 | Flexibilidad por parte del arrendatario para elegir cuando quiere alquilar su kit o artículo | ✅ | ❌ | ✅ | 🟡 Solo pueden elegirse periodos cerrados (3,6, 12 meses), sin libertad total | ✅ | ✅ |
@@ -100,7 +100,7 @@ Peerby es una plataforma web cuyo objetivo es facilitar el alquiler o préstamo 
 - **Programa de protección contra daños:** Pagando la suscripción, el sistema ofrece a los usuarios una garantía de hasta 2000€ y participa como mediador en caso de hurto o daños.
 - **Sostenibilidad:** Una de las principales premisas del sistema. Fomentando la reutilización, Peerby favorece enormemente a la sostenibilidad y reduce el descarte masivo de objetos útiles.
 
-En conclusión, Peerby representa un competidor claro en la funcionalidad mas básica, con un catálogo, al igual que Keakit, completamente personalizado por los usuarios de la plataforma, así como también un gran aporte a la sostenibilidad. Sin embargo, tiene algunas debilidades obvias contra Keakit como la ausencia de gestión de logística por la plataforma, su enfoque local, y otros varios aspectos clave expuestos a continuación.
+En conclusión, Peerby representa un competidor claro en la funcionalidad más básica, con un catálogo, al igual que KeaKit, completamente personalizado por los usuarios de la plataforma, así como también un gran aporte a la sostenibilidad. Sin embargo, tiene algunas debilidades obvias contra KeaKit como la ausencia de gestión de logística por la plataforma, su enfoque local, y otros varios aspectos clave expuestos a continuación.
 
 ### Comparativa y Diferenciación
 
@@ -114,9 +114,9 @@ En conclusión, Peerby representa un competidor claro en la funcionalidad mas b�
 | Integración de Servicios | ✅ Posibilidad de integrar servicios esenciales (Internet, etc.) | ❌ Enfocado solo en objetos físicos |
 | Notificaciones | Recordatorios de devolución y aviso de entrega | Mensajes y alertas de peticiones en el vecindario |
 | Economía Circular | Fomenta la monetización de objetos locales infrautilizados | Fomenta la monetización de objetos locales infrautilizados |
-| Alcance Internacional | A nivel europeo | Bélgica y Países bajos |
+| Alcance Internacional | A nivel europeo | Bélgica y Países Bajos |
 
-### Ventajas de Keakit frente a Peerby
+### Ventajas de KeaKit frente a Peerby
 
 - **Personalización y Solución Integral:** Ofrecemos la posibilidad de crear kits adecuados a las necesidades del usuario, incluyendo tanto objetos como servicios, algo que Peerby no permite con su alquiler individual.
 - **Integración de sistemas de envío:** Ofrecemos servicios de envío incluso entre ciudades distintas para aquellos usuarios que lo consideren necesario, lo cual no es una opción en Peerby. 
@@ -124,7 +124,7 @@ En conclusión, Peerby representa un competidor claro en la funcionalidad mas b�
 - **Disponibilidad en teléfonos móviles:** Ofrecemos nuestro sistema en aplicaciones móviles, lo cual es, en este contexto, una solución mucho más cómoda y eficaz (Facilidad para hacer y subir fotos, notificaciones, acceso rápido, etc.). Peerby, por otro lado, se limita exclusivamente a un sitio web.
 - **Escalabilidad Europea:** Nuestro mercado tiene como objetivo extenderse a nivel europeo, mientras que Peerby se limita a Bélgica y Países Bajos.
 
-En resumen, aunque las ideas generales de ambos sistemas sean muy similares a simple vista, Keakit tiene multitud de opciones que lo hacen ser un servicio mucho más eficaz, accesible y completo que Peerby, por lo que mientras que este no aumente su alcance a otros territorios ni añada funcionalidades de calidad de vida como las que tiene KeaKit, no supondrá un competidor preocupante para el sistema a desarrollar.
+En resumen, aunque las ideas generales de ambos sistemas sean muy similares a simple vista, KeaKit tiene multitud de opciones que lo hacen ser un servicio mucho más eficaz, accesible y completo que Peerby, por lo que mientras que este no aumente su alcance a otros territorios ni añada funcionalidades de calidad de vida como las que tiene KeaKit, no supondrá un competidor preocupante para el sistema a desarrollar.
 
 ---
 
@@ -242,7 +242,7 @@ En conclusión, Grover representa un competidor parcial dentro del ámbito del a
 - **Enfoque Local y Sostenibilidad:** Al conectar oferta y demanda dentro de una misma ciudad, reducimos costes logísticos y contaminación relacionados con el transporte y almacenamiento.
 - **Escalabilidad Europea:** Nuestro mercado tiene como objetivo extenderse a nivel europeo, mientras que Grover se limita a Alemania, España, Austria y los Países Bajos.
 
-En resumen, Grover es una buena solución internacional para el alquiler flexible de tecnología por suscripción, pero siempre que no extienda su modelo de negocio al alquiler de otros productos y servicios, y no amplie su alcance a otros territorios europeos, no será necesario considerarlo una amenaza.
+En resumen, Grover es una buena solución internacional para el alquiler flexible de tecnología por suscripción, pero siempre que no extienda su modelo de negocio al alquiler de otros productos y servicios, y no amplíe su alcance a otros territorios europeos, no será necesario considerarlo una amenaza.
 
 ---
 
@@ -260,7 +260,7 @@ Opera exclusivamente en España y no está orientada a estancias cortas ni a mov
 - **Concepto:** Servicio de renting tecnológico a medio y largo plazo.
 - **Catálogo:** Aproximadamente 80 dispositivos tecnológicos, entre ellos: smartphones, tablets, ordenadores portátiles, smartwatches y consolas de marcas como Apple, Samsung, Xiaomi, Oppo, Motorola, Sony, Nintendo y Microsoft. Incluye productos nuevos y reacondicionados.
 - **Modelo de Stock:** El stock está gestionado directamente por la empresa. No es un marketplace entre particulares.
-- **Kits y Productos**: Solo se permiten alquiler de productos individuales. No existen kits preconfigurados ni posibilidad de crear packs personalizados.
+- **Kits y Productos**: Solo se permite el alquiler de productos individuales. No existen kits preconfigurados ni posibilidad de crear packs personalizados.
 - **Duración Contractual**: Contratos rígidos de 24 meses para la mayoría de dispositivos y 36 meses para consolas. Existe la posibilidad de ampliarlo por 12 meses adicionales o comprar el dispositivo al finalizar el periodo mediante el pago del 35% del PVP recogido en el contrato. La cancelación anticipada del servicio conllevará un pago asociado al 50% de la base imponible pendiente.
 - **Depósito de Garantía**: No utiliza un depósito tradicional, sino que incluye un seguro obligatorio integrado en la cuota mensual que cubre daños accidentales y robo.
 - **Logística**: Envío gratuito a domicilio. Las devoluciones se pueden realizar mediante recogida o entrega en tienda asociada.
@@ -369,7 +369,7 @@ El modelo es bidireccional, lo que significa que necesitamos tanto arrendadores 
 
 #### 3. Complejidad técnica y operativa
 
-Nuestro sistema incluye depósito de garantía, validación del estado del objeto, notificaciones inteligentes. Aunque esto es una fortaleza en términos de seguridad, también implica un mayor nivel de complejidad técnica y mantenimiento en comparación con un marketplace simple.
+Nuestro sistema incluye depósito de garantía, validación del estado del objeto y notificaciones inteligentes. Aunque esto es una fortaleza en términos de seguridad, también implica un mayor nivel de complejidad técnica y mantenimiento en comparación con un marketplace simple.
 
 #### 4. Riesgo de conflictos por daños
 
