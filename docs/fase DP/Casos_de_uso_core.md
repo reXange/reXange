@@ -42,6 +42,7 @@
 * **HU-ARRENDATARIO39**: Como arrendatario, quiero poder indicar que el objeto no cumple con lo prometido, para que se revise el caso antes de liberar el pago completo al arrendador.
 * **HU-ARRENDATARIO40**: Como arrendatario, quiero recibir automáticamente el reembolso del depósito cuando finalice el alquiler y el arrendador confirme que el objeto ha sido devuelto en buen estado, para recuperar mi dinero sin gestiones adicionales.
 * **HU-ARRENDATARIO41**: Como arrendatario, quiero recibir una notificación cuando se procese la devolución de mi depósito, para saber que el proceso ha finalizado correctamente.
+* **HU-ARRENDATARIO42**: Como arrendatario, quiero poder editar mis datos básicos, para que se gestionen correctamente pagos y envíos.
 
 ---
 
@@ -81,6 +82,7 @@
 * **HU-ARRENDADOR32**: Como arrendador, quiero recibir una notificación cuando el arrendatario valide el estado del objeto, para saber cuándo se liberará el segundo pago.
 * **HU-ARRENDADOR33**: Como arrendador, quiero confirmar desde la app que he recibido mi objeto de vuelta y que está en buen estado, para que se libere la devolución de la garantía.
 * **HU-ARRENDADOR34**: Como arrendador, quiero indicar si el objeto ha sido devuelto con daños o problemas, para que se retenga total o parcialmente la garantía.
+* **HU-ARRENDADOR35**: Como arrendador, quiero poder editar los datos de mi perfil de usuario, para poder actualizarlos en caso de sufrir alguna modificación.
 
 ---
 
@@ -154,6 +156,11 @@ El arrendador confirma la devolución del objeto.
 * **Si hay daños** → se retiene total o parcialmente la garantía.
 *(HU-ARRENDADOR33, HU-ARRENDADOR34, HU-ARRENDATARIO40–41)*
 
+
+### CU-ARRENDADOR13 – Gestión de datos personales
+Cuando el arrendador accede a su perfil, puede realizar la edición de sus datos personales.
+*(HU-ARRENDADOR35)*
+
 ---
 
 ## Casos de Uso Core - Arrendatario
@@ -165,8 +172,8 @@ Registro e inicio de sesión como arrendatario.
 ---
 
 ### CU-ARRENDATARIO02 – Gestión de datos personales
-Modificar datos de envío y métodos de pago.
-*(HU-ARRENDATARIO03)*
+Modificar los datos personales de mi perfil de usuario.
+*(HU-ARRENDATARIO03, HU-ARRENDATARIO42)*
 
 ---
 
