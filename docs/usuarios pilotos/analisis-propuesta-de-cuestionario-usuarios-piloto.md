@@ -14,7 +14,7 @@ El cuestionario está diseñado con una lógica condicional (bifurcación) para 
 Dependiendo de la respuesta en la Sección 1 (pregunta de perfil), el encuestado será dirigido a una ruta específica adaptada a su rol.
 El test además ha sido traducido al Inglés con el objetivo de poder encontrar usuarios piloto fuera de españa, clave para nuestros
 nuestros perfiles de erasmus y prácticas en el extranjero.
-
+**URL**: https://forms.gle/9cjNfozDvAavqFzy9
 > **Lógica de Bifurcación:**
 > * **Sección 1 (Común):** Perfil de Usuario.
 > * Si Perfil = **Arrendatario** ➔ Salta a la **Ruta A** (Sección 2A y Sección 3A). Luego salta a la Sección 4.

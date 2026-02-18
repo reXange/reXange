@@ -153,7 +153,7 @@ Al acceder desde la pantalla anterior a la edición del perfil mediante el lápi
 </div>
 
 
-### Detalles de artículo - Core ([CU-ARRENDADOR03](./casos-de-uso-core.md#cu-arrendador03--gestión-de-mis-artículos)/[CU-ARRENDATARIO04](./casos-de-uso-core.md#cu-arrendatario04--selección-de-objetos-disponibles))
+### Detalles de artículo - Core ([CU-ARRENDADOR03](./casos-de-uso-core.md#cu-arrendador03--gestión-de-mis-artículos))
 
 Si pulsamos sobre los artículos que encontramos en la sección "Mis artículos" de la pantalla del perfil **Arrendador**, accederemos a los detalles del mismo, en una pantalla como la que se muestra a continuación.
 
@@ -395,7 +395,7 @@ Desde esta pantalla, se podrán ver todos los detalles de la categoría, además
 Desde esta pantalla, se podrán editar los tipos de productos/categorías disponibles en la aplicación. La pantalla de creación de tipos de productos/categorías será exactamente igual, pero con los campos vacíos listos para rellenar.
 
 <div style="text-align: center;">
-  <img src="img/mockups/detalles-tipo-categoria.png"
+  <img src="img/mockups/Edición tipo-categoría.png"
        width="200"
        style="object-fit: cover;"
        alt="Edición tipos productos/categorías: Admin">
