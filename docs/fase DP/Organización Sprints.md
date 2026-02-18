@@ -14,7 +14,7 @@ Este documento detalla la hoja de ruta para el desarrollo del sistema, dividida 
 | **Gestión de Catálogo** | CU-ARRENDADOR02, 03, 04, 06 <br> CU-ARRENDATARIO 03, 04, 05, 06, 09 <br> CU-ADMIN01, 02 (Rangos de precio) | Guillermo Ciria González, Rafael Harana Mancilla, Alejandro González Macías, Adrián Miguel Chabera Rubio, Marta de la Calle González, Rosa María Espinosa Martínez, Samuel Tamayo Balogh, Guillermo García León, Ismael Carrasco Mkhazni, Germán Ojeda Garrido|
 | **Pago y Compra** | CU-ARRENDADOR05, 07, 08 <br> CU-ARRENDATARIO08, 10, 11 <br> CU-ADMIN04 (Modelo de negocio) | Paula Rosa González Páez, Marta Aguilar Morcillo, Ángel Amo Sánchez, Jose Luis Moraza Vergara, Cristina Fernández Chica, Candela Jazmín Gutierrez González |
 
-* **Despliegue:** Guillermo Ciria González
+* **Despliegue y Preparación de entorno:** Guillermo Ciria González, Rafael Harana Mancilla, Alejandro González Macías, Adrián Miguel Chabera Rubio, Marta de la Calle González.
 * **Documentación:** Todos los grupos
 
 ---
