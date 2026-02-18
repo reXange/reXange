@@ -6,9 +6,9 @@ El objetivo de este documento consiste en detallar el uso de herramientas de Int
 
 ## Registro de Interacciones
 
-**Herramienta y versión de Inteligencia Artificial utilizada:** "Copilot en Visual Studio Code, modelo GPT-4.1 en modo Agente."
+**Herramienta y versión de Inteligencia Artificial utilizada:** Copilot en Visual Studio Code, modelo GPT-4.1 en modo Agente.
 
-**Fecha de uso:** "17/02/2026"
+**Fecha de uso:** 17/02/2026
 
 **Prompt utilizado:** 
 ```
@@ -28,18 +28,18 @@ Revisa la consistencia de los términos: "tiporama/nombre-rama" debería ser "ti
 ```
 **Siguiente prompt utilizado:** 
 ```
-aplica los puntos 3, 4, 5
+"aplica los puntos 3, 4, 5"
 ```
 
 **Siguiente respuesta obtenida:** 
 
 ```
-Listo. He realizado las siguientes mejoras en el archivo:
+"Listo. He realizado las siguientes mejoras en el archivo:
 
 Agregué ejemplos de nombres de ramas correctos e incorrectos, con explicación.
 Añadí un ejemplo concreto de cita en formato IEEE.
 Corregí el término "tiporama" por "tipo-rama" en el formato de nombres de ramas.
-¿Quieres revisar el resultado o necesitas algún ajuste adicional?
+¿Quieres revisar el resultado o necesitas algún ajuste adicional?"
 ```
 
 **Objetivo del uso:** Pulir la redacción del documento que estaba redactando antes de subirlo al repositorio.
