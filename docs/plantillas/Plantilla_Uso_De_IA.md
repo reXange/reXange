@@ -7,7 +7,6 @@ El objetivo de este documento consiste en detallar el uso de herramientas de Int
 
 ## Registro de Interacciones
 
-### Interacción X
 **Herramienta y versión de Inteligencia Artificial utilizada:** "Herramienta empleada"
 
 **Fecha de uso:** "Fecha de uso"

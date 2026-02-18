@@ -6,7 +6,6 @@ El objetivo de este documento consiste en detallar el uso de herramientas de Int
 
 ## Registro de Interacciones
 
-### Interacción X
 **Herramienta y versión de Inteligencia Artificial utilizada:** "Copilot en Visual Studio Code, modelo GPT-4.1 en modo Agente."
 
 **Fecha de uso:** "17/02/2026"
