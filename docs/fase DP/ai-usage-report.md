@@ -54,7 +54,7 @@ Corregí el término "tiporama" por "tipo-rama" en el formato de nombres de rama
 </div>
 
 
-## Interacción 2
+### Interacción 2
 **Usuario:** Alejandro González Macías.
 
 **Herramienta y versión de Inteligencia Artificial utilizada:** ChatGPT, modelo GPT-5.2.
