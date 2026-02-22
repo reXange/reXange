@@ -53,4 +53,295 @@ Información y gestión de usuarios piloto del proyecto.
 - **[persona-en-practicas.md](docs/usuarios%20pilotos/persona-en-practicas.md)**: Perfil de usuario piloto: persona en prácticas.
 
 
+## Instalación del devcontainer
 
+### Windows 11
+
+Este proyecto utiliza **Dev Containers** para proporcionar
+automáticamente todas las herramientas necesarias (Java, Maven, Node.js,
+PostgreSQL, Expo, etc.).
+
+**No necesitas instalar Java, Node ni PostgreSQL manualmente.**
+
+------------------------------------------------------------------------
+
+### 1. Instalar WSL2 (Linux dentro de Windows)
+
+Abrir **PowerShell como Administrador** y ejecutar:
+
+``` powershell
+wsl --install
+```
+
+Reiniciar el ordenador cuando lo solicite.
+
+Verificar la instalación:
+
+``` powershell
+wsl -l -v
+```
+
+Debe aparecer algo similar a:
+
+    Ubuntu    Version 2
+
+------------------------------------------------------------------------
+
+### 2. Instalar Docker Desktop
+
+Descargar e instalar:
+
+https://www.docker.com/products/docker-desktop/
+
+Durante la instalación:
+
+-  Activar **Use WSL 2 backend**
+
+Después abrir Docker Desktop y esperar a que indique:
+
+    Docker Desktop is running
+
+### Activar integración con WSL
+
+En Docker Desktop:
+
+    Settings → Resources → WSL Integration
+
+Activar:
+
+-  Ubuntu
+
+Pulsar **Apply & Restart**.
+
+------------------------------------------------------------------------
+
+### 3. Instalar Visual Studio Code
+
+Descargar:
+
+https://code.visualstudio.com/
+
+Instalar la extensión:
+
+-   **Dev Containers** (Microsoft)
+
+------------------------------------------------------------------------
+
+###  4. Clonar el proyecto (MUY IMPORTANTE)
+
+Abrir terminal **Ubuntu (WSL)**, NO PowerShell.
+
+``` bash
+wsl
+mkdir -p ~/projects
+cd ~/projects
+git clone <URL_DEL_REPO>
+cd <repo>
+```
+
+ **No trabajar en `C:\Users\...`**, ya que provoca lentitud y errores
+con Docker.
+
+------------------------------------------------------------------------
+
+### 5. Abrir el proyecto en VS Code
+
+Desde la terminal WSL:
+
+``` bash
+code .
+```
+
+Abajo a la izquierda en VS Code debe aparecer:
+
+    WSL: Ubuntu
+
+------------------------------------------------------------------------
+
+### 6. Abrir en Dev Container
+
+VS Code detectará automáticamente la configuración:
+
+    Reopen in Container
+
+Haz click.
+
+La primera vez tardará varios minutos porque se instalará todo
+automáticamente.
+
+------------------------------------------------------------------------
+
+### 7. Verificar instalación
+
+Abrir una terminal en VS Code y ejecutar:
+
+``` bash
+java -version
+mvn -version
+node -v
+npm -v
+```
+
+Si muestran versiones → entorno listo
+
+------------------------------------------------------------------------
+
+##  Ejecutar el proyecto
+
+### Backend (Spring Boot)
+
+``` bash
+cd backend
+./mvnw spring-boot:run
+```
+
+Backend disponible en:
+
+    http://localhost:8080 o el puerto que indique la aplicación
+
+------------------------------------------------------------------------
+
+### Mobile (React Native / Expo)
+
+``` bash
+cd mobile
+npx expo start
+```
+
+Escanear el QR con **Expo Go** o abrir en navegador.
+
+------------------------------------------------------------------------
+
+### Notas importantes
+
+-   Todo se ejecuta dentro de Docker.
+-   No instalar dependencias manualmente en Windows.
+-   El entorno es idéntico para todo el equipo.
+
+------------------------------------------------------------------------
+
+### Problemas comunes
+
+### No aparece "Reopen in Container"
+
+    Ctrl + Shift + P
+    → Dev Containers: Reopen in Container
+
+### Docker no arranca
+
+Abrir Docker Desktop manualmente.
+
+### Proyecto lento
+
+Asegurarse de que el proyecto está dentro de WSL (`/home/...`) y no en
+`C:\`.
+
+
+
+### Instalación de Dev Containers en VS Code (Linux)
+
+Guía rápida para configurar **Dev Containers** en Visual Studio Code
+usando Linux.
+
+------------------------------------------------------------------------
+
+### Instalar Docker
+
+Abrir la terminal y ejecutar:
+
+``` bash
+sudo apt update
+sudo apt install docker.io -y
+sudo systemctl enable docker
+sudo systemctl start docker
+sudo usermod -aG docker $USER
+```
+
+###Reinicia sesión después de ejecutar el último comando.
+
+Verificar instalación:
+
+``` bash
+docker run hello-world
+```
+
+------------------------------------------------------------------------
+
+### Instalar Visual Studio Code
+
+Si no está instalado:
+
+``` bash
+sudo snap install code --classic
+```
+
+------------------------------------------------------------------------
+
+### Instalar la extensión Dev Containers
+
+1.  Abrir VS Code\
+2.  Ir a **Extensiones** (`Ctrl + Shift + X`)\
+3.  Buscar: `Dev Containers`\
+4.  Instalar la extensión
+
+------------------------------------------------------------------------
+
+### Crear un Dev Container
+
+1.  Abrir la carpeta del proyecto en VS Code
+2.  Presionar:
+
+```{=html}
+<!-- -->
+```
+    Ctrl + Shift + P
+
+3.  Ejecutar:
+
+```{=html}
+<!-- -->
+```
+    Dev Containers: Add Dev Container Configuration Files
+
+4.  Seleccionar el entorno deseado (Python, Node, Ubuntu, etc.)
+
+------------------------------------------------------------------------
+
+### Abrir el proyecto dentro del container
+
+Ejecutar:
+
+    Dev Containers: Reopen in Container
+
+VS Code construirá automáticamente el contenedor y abrirá el proyecto
+dentro de él.
+
+------------------------------------------------------------------------
+
+### Verificación
+
+Si todo funciona correctamente, en la esquina inferior izquierda
+aparecerá:
+
+    Dev Container: <nombre-del-entorno>
+
+La terminal ya estará ejecutándose dentro del contenedor.
+
+------------------------------------------------------------------------
+
+### Problemas comunes
+
+#### Docker no conecta
+
+``` bash
+sudo systemctl start docker
+sudo systemctl status docker
+```
+
+#### Problemas de permisos
+
+``` bash
+sudo usermod -aG docker $USER
+```
+
+(Reiniciar sesión después)
